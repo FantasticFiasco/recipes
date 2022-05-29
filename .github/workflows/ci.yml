@@ -14,4 +14,4 @@ jobs:
         with:
           ruby-version: '3.0'
           bundler-cache: true
-      - run: bundle --help
+      - run: bundle exec jekyll build
