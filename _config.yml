@@ -7,7 +7,7 @@ collections:
 defaults:
   - scope:
       path: ""
-      type: recipe
+      type: recipes
     values:
       layout: recipe
   - scope:
