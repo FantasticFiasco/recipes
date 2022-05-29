@@ -1,4 +1,7 @@
-# Filmjölksbröd
+---
+title: Filmjölksbröd
+---
+![filmjölksbröd](/assets/filmjölksbröd.jpeg)
 
 - 2 dl fiberhavregryn
 - 5 dl vetemjöl

@@ -1,5 +1,6 @@
-# Gravlaxsås
-
+---
+title: Gravlaxsås
+---
 Det här behöver man till ca 4 dl.
 
 - 3/4 dl svensk senap
