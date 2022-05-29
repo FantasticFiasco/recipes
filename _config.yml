@@ -1,0 +1,16 @@
+title: Recept
+
+collections:
+  recipes:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: recipes
+    values:
+      layout: recipe
+  - scope:
+      path: ""
+    values:
+      layout: default
