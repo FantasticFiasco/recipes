@@ -1,7 +1,7 @@
 ---
 title: Filmjölksbröd
 ---
-![filmjölksbröd](/assets/filmjölksbröd.jpeg)
+![filmjölksbröd]({{ "/assets/filmjölksbröd.jpeg" | relative_url }})
 
 - 2 dl fiberhavregryn
 - 5 dl vetemjöl
