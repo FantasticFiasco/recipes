@@ -1,7 +1,7 @@
 ---
 title: Chokladbrownies med frosting
 ---
-![chokladbrownies med frosting]({{ "assets/../../assets/chokladbrownies%20med%20frostings.jpg" | relative_url }})
+![chokladbrownies med frosting]({{ "/assets/chokladbrownies med frostings.jpg" | relative_url }})
 
 12 stora bitar
 
