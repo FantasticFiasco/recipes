@@ -2,6 +2,8 @@ title: Recept
 
 baseurl: /recipes
 
+theme: just-the-docs
+
 collections:
   recipes:
     output: true
@@ -11,7 +13,7 @@ defaults:
       path: ""
       type: recipes
     values:
-      layout: recipe
+      layout: page
   - scope:
       path: ""
     values:
