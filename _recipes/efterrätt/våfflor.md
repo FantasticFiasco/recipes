@@ -1,5 +1,6 @@
 ---
 title: Våfflor
+parent: Efterrätt
 ---
 ca 10 stycken
 

@@ -1,5 +1,6 @@
 ---
 title: Gravlaxsås
+parent: Sås
 ---
 Det här behöver man till ca 4 dl.
 

@@ -1,10 +1,10 @@
 title: Recept
-
 baseurl: /recipes
 
 collections:
   recipes:
     output: true
+    permalink: /:path
 
 defaults:
   - scope:
@@ -12,7 +12,10 @@ defaults:
       type: recipes
     values:
       layout: recipe
-  - scope:
-      path: ""
-    values:
-      layout: default
+
+theme: just-the-docs
+logo: /assets/images/logo_340x340.png
+
+just_the_docs:
+  collections:
+    recipes:
