@@ -1,5 +1,6 @@
 ---
 title: Filmjölksbröd
+parent: Bröd
 ---
 ![filmjölksbröd]({{ "/assets/filmjölksbröd.jpeg" | relative_url }})
 

@@ -1,5 +1,6 @@
 ---
 title: Chokladbrownies med frosting
+parent: Efterrätt
 ---
 ![chokladbrownies med frosting]({{ "/assets/chokladbrownies med frostings.jpg" | relative_url }})
 
