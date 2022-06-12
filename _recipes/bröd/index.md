@@ -3,4 +3,6 @@ title: Bröd
 has_children: true
 layout: category
 ---
-## Låt oss baka något bröd
+# {{ page.title }}
+
+Låt oss baka något bröd...
