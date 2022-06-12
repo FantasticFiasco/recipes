@@ -10,3 +10,4 @@ gem "just-the-docs", "> 0"
 # Ruby 3.0 on macOS does not come woth webrick, see
 # https://github.com/github/pages-gem/issues/752 for more information
 gem "webrick", "> 0"
+gem "faraday-retry", "> 0"
