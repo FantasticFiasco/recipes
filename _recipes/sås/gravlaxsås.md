@@ -2,6 +2,8 @@
 title: Gravlaxsås
 parent: Sås
 ---
+![Gravlaxsås]({{ "/assets/images/sås/gravlaxsås.jpg" | relative_url }})
+
 Det här behöver man till ca 4 dl.
 
 - 3/4 dl svensk senap

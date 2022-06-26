@@ -2,7 +2,7 @@
 title: Saffranskryddad fisksoppa med lax och torsk
 parent: Fisk
 ---
-![Saffranskryddad fisksoppa med lax och torsk]({{ "/assets/saffranskryddad-fisksoppa-med-lax-och-torsk.jpg" | relative_url }})
+![Saffranskryddad fisksoppa med lax och torsk]({{ "/assets/images/fisk/saffranskryddad fisksoppa med lax och torsk.jpg" | relative_url }})
 
 Värmande och vacker fisksoppa med saffran, lax och torsk. På bara en kvart har du en lättlagad och god soppa!
 

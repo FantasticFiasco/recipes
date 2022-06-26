@@ -2,6 +2,8 @@
 title: Våfflor
 parent: Efterrätt
 ---
+![Våfflor]({{ "/assets/images/efterrätt/våfflor.jpg" | relative_url }})
+
 ca 10 stycken
 
 Ingredienser
