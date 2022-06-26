@@ -13,7 +13,7 @@ defaults:
     values:
       layout: recipe
 
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 logo: /assets/images/logo_340x340.png
 
 just_the_docs:
