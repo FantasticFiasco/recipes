@@ -2,7 +2,7 @@
 title: Chokladbrownies med frosting
 parent: Efterrätt
 ---
-![Chokladbrownies med frosting]({{ "/assets/images/efterrätt/chokladbrownies med frostings.jpg" | relative_url }})
+![{{ page.title }}](/recipes/assets/images/{{ page.parent }}/{{ page.title }}.jpg)
 
 12 stora bitar
 

@@ -2,7 +2,7 @@
 title: Filmjölksbröd
 parent: Bröd
 ---
-![Filmjölksbröd]({{ "/assets/images/bröd/filmjölksbröd.jpg" | relative_url }})
+![{{ page.title }}](/recipes/assets/images/{{ page.parent }}/{{ page.title }}.jpg)
 
 - 2 dl fiberhavregryn
 - 5 dl vetemjöl

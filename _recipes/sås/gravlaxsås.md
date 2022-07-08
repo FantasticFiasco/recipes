@@ -2,7 +2,7 @@
 title: Gravlaxsås
 parent: Sås
 ---
-![Gravlaxsås]({{ "/assets/images/sås/gravlaxsås.jpg" | relative_url }})
+![{{ page.title }}](/recipes/assets/images/{{ page.parent }}/{{ page.title }}.jpg)
 
 Det här behöver man till ca 4 dl.
 
