@@ -10,5 +10,13 @@
     35729
   ],
   "postCreateCommand": "sh .devcontainer/post-create.sh",
-  "remoteUser": "vscode"
+  "remoteUser": "vscode",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "EditorConfig.EditorConfig",
+        "yzhang.markdown-all-in-one"
+      ]
+    }
+  }
 }
