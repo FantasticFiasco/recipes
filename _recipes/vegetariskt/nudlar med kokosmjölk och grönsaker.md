@@ -2,7 +2,7 @@
 title: Nudlar med kokosmjölk och grönsaker
 parent: Vegetariskt
 ---
-![{{ page.title }}](/recipes/assets/images/{{ page.parent }}/{{ page.title }}.jpg)
+![{{ page.title }}](/recipes/assets/images/{{ page.parent | downcase }}/{{ page.title | downcase }}.jpg)
 
 Snabb gryta med grön currypasta, kokosmjölk, broccoli, purjolök och champinjoner. Enkelt recept på vardagsmiddag!
 

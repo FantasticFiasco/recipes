@@ -2,7 +2,7 @@
 title: Pärlcouscous med sesamstekt halloumi och myntayoghurt
 parent: Vegetariskt
 ---
-![{{ page.title }}](/recipes/assets/images/{{ page.parent }}/{{ page.title }}.jpg)
+![{{ page.title }}](/recipes/assets/images/{{ page.parent | downcase }}/{{ page.title | downcase }}.jpg)
 
 Ingredienser
 

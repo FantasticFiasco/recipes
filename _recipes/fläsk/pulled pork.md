@@ -2,7 +2,7 @@
 title: Pulled pork
 parent: Fläsk
 ---
-![{{ page.title }}](/recipes/assets/images/{{ page.parent }}/{{ page.title }}.jpg)
+![{{ page.title }}](/recipes/assets/images/{{ page.parent | downcase }}/{{ page.title | downcase }}.jpg)
 
 - 1,5 kg fläskkarré
 - 5 vitlöksklyftor

@@ -2,7 +2,7 @@
 title: Koreansk BBQ
 parent: Nöt
 ---
-![{{ page.title }}](/recipes/assets/images/{{ page.parent }}/{{ page.title }}.jpg)
+![{{ page.title }}](/recipes/assets/images/{{ page.parent | downcase }}/{{ page.title | downcase }}.jpg)
 
 Ingredienser
 

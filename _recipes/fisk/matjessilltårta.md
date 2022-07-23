@@ -2,7 +2,7 @@
 title: Matjessilltårta
 parent: Fisk
 ---
-![{{ page.title }}](/recipes/assets/images/{{ page.parent }}/{{ page.title }}.jpg)
+![{{ page.title }}](/recipes/assets/images/{{ page.parent | downcase }}/{{ page.title | downcase }}.jpg)
 
 10–12 personer
 

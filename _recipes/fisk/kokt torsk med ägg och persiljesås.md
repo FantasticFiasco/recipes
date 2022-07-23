@@ -2,7 +2,7 @@
 title: Kokt torsk med ägg och persiljesås
 parent: Fisk
 ---
-![{{ page.title }}](/recipes/assets/images/{{ page.parent }}/{{ page.title }}.jpg)
+![{{ page.title }}](/recipes/assets/images/{{ page.parent | downcase }}/{{ page.title | downcase }}.jpg)
 
 Ingredienser
 

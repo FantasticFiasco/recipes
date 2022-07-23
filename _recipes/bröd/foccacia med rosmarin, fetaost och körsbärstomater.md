@@ -2,7 +2,7 @@
 title: Foccacia med rosmarin, fetaost och körsbärstomater
 parent: Bröd
 ---
-![{{ page.title }}](/recipes/assets/images/{{ page.parent }}/{{ page.title }}.jpg)
+![{{ page.title }}](/recipes/assets/images/{{ page.parent | downcase }}/{{ page.title | downcase }}.jpg)
 
 Italienskt matbröd som bakas i långpannor och skärs i rutor. Denna är smaksatt med fetaost, tomater och rosmarin.
 
