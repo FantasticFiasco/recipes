@@ -2,7 +2,7 @@
 title: Gravlaxsås
 parent: Sås
 ---
-![{{ page.title }}](/recipes/assets/images/{{ page.parent }}/{{ page.title }}.jpg)
+![{{ page.title }}](/recipes/assets/images/{{ page.parent | downcase }}/{{ page.title | downcase }}.jpg)
 
 Det här behöver man till ca 4 dl.
 
