@@ -1,5 +1,5 @@
 ---
-title: Helstekt oxfilé med lyxig italiensk potatiskaka, smörfrästa kantareller och krämig savoykål
+title: Helstekt oxfilé med lyxig italiensk potatiskaka
 parent: Nöt
 ---
 ![{{ page.title }}](/recipes/assets/images/{{ page.parent | downcase }}/{{ page.title | downcase }}.jpg)
