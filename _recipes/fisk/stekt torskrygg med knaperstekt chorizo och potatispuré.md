@@ -48,3 +48,8 @@ Gör så här
 4. Ta upp torsken ur rimlagen och stek den i 25 g smör tillsammans med vitlök och repad timjan, ös med smöret under tiden du steker. Lägg över torsken i en ugnssäker form och häll över smöret. Tillaga torsken mitt i ugnen tills innertemperaturen är 55°.
 5. Sallad: Blanda spenat och ärtskott med olja och vinäger. Krydda med salt och peppar.
 6. Lägg upp blomkålspurén på tallrikar. Lägg på torsken och chorizosmul. Ringla lite av oljan över rätten och garnera med timjan. Servera med salladen.
+
+{% for tag in page.tags %}
+{{ tag }}
+{: .label }
+{% endfor %}

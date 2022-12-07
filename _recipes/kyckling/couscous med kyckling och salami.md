@@ -29,3 +29,8 @@ Gör så här
 5. Blanda matyoghurt med finrivet skal från citron, salt och peppar.
 6. Bre ut couscousen på ett uppläggningsfat. Strö på kyckling, salami, aprikoser,persilja och babyspenat.
 7. Servera med citronyoghurten.
+
+{% for tag in page.tags %}
+{{ tag }}
+{: .label }
+{% endfor %}

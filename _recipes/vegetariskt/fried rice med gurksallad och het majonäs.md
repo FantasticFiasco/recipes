@@ -43,3 +43,8 @@ Gör så här
 2. Tillsätt kål, morot och broccoli och stek 2 min till. Tillsätt ingefära, sesamolja och ris. Stek under omrörning tills riset är ordentligt varmt.
 3. Tillsätt salt, chiliflakes, ägg och jordnötter. Dra av från plattan, häll på soja och vänd runt. Vispa ihop vinäger, vatten och socker. Vänd ner gurka och salladslök.
 4. Blanda majonnäs och sriracha. Servera fried rice med majonnäs, gurksallad och koriander.
+
+{% for tag in page.tags %}
+{{ tag }}
+{: .label }
+{% endfor %}

@@ -32,3 +32,8 @@ Garnering
 3. Mixa crème fraiche och färskost. Värm 1/4 av ostkrämen i en kastrull. Ta upp och smält gelatinbladen i ostblandningen. Rör ner det i resten av krämen.
 4. Blanda ner matjessill, lök och örter i krämen. Häll smeten i formen. Släta till ytan. Ställ tårtan i kylen för att stelna, ca 3 timmar.
 5. Skär terrinen i portionsbitar med en varm kniv. Strö över gräslök.
+
+{% for tag in page.tags %}
+{{ tag }}
+{: .label }
+{% endfor %}

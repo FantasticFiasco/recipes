@@ -42,3 +42,8 @@ Friterad kapris
 
 1. Värm olja till ca 160°. Lägg i 2 msk kapris. Fritera några minuter. Ta upp och lägg på hushållspapper.
 2. Skär laxen i tunna skivor och servera med dressing, friterad kapris, plockad dill och hackad gräslök.
+
+{% for tag in page.tags %}
+{{ tag }}
+{: .label }
+{% endfor %}

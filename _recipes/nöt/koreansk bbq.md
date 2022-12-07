@@ -57,3 +57,8 @@ Gör så här
 5. Stek det marinerade köttet i en riktigt het panna i rapsolja. Några minuter på varje sida räcker om man vill ha medium rare, annars lite längre.
 6. Skiva upp kött och servera med sås och ris i salladsblad samt kimchi och grönsaker. Äts gärna med händerna!
 7. Glöm inte att matsortera blast från kål, vitlöksskal och kärnhus från päron för en mer hållbar matlagning och njut av din koreanska bbq!
+
+{% for tag in page.tags %}
+{{ tag }}
+{: .label }
+{% endfor %}

@@ -27,3 +27,8 @@ Gör så här
 3. På morgonen: Ta fram limpformen. Låt den stå i rumstemperatur i ca 20 min. Sätt ugnen på 250 grader.
 4. Pensla limpan med ägg och strö över vallmofrön.
 5. Sänk värmen direkt till 200 grader när du sätter in limpan i ugnen. Grädda den längst ner i 30–35 min. Låt bröden svalna i formen.
+
+{% for tag in page.tags %}
+{{ tag }}
+{: .label }
+{% endfor %}

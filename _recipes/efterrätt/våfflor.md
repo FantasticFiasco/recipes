@@ -25,3 +25,8 @@ GÖR SÅ HÄR
 1. Blanda sedan ner mineralvatten, smält smör, salt, socker och vaniljsocker.
 1. Låt smeten vila en stund innan du börjar grädda våfflorna.
 1. Grädda våfflorna i smort våffeljärn tills de är gyllenbruna. Efter ett par tre våfflor behövs våffeljärnet sällan smörjas igen.
+
+{% for tag in page.tags %}
+{{ tag }}
+{: .label }
+{% endfor %}

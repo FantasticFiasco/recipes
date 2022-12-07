@@ -31,3 +31,8 @@ Ingredienser
 4. Tillsätt vitt vin och låt sjuda i ca 2 min så att vinet reduceras.
 5. Tillsätt vatten, fond, grädde och creme fraiche och låt soppan sjuda under lock i ca 10 min. Smaka av soppan med salt och peppar.
 6. Tillsätt fiskbitarna och låt de sjuda i soppan i ca 4-5 min. Tillsätt räkor och servera meddetsamma. Njut av en fantastisk fisksoppa.
+
+{% for tag in page.tags %}
+{{ tag }}
+{: .label }
+{% endfor %}

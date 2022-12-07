@@ -43,3 +43,8 @@ Gör så här
 4. Blanda tomat, lök, citronskal och -juice, persilja, olivolja, salt och peppar. Rör ner couscousen.
 5. Smula eller bryt halloumin i bitar. Stek halloumin i rapsolja tills den får lite färg. Ringla över honung och strö över sesamfrön och stek ytterligare någon minut.
 6. Toppa salladen med halloumin, tranbär, hackade pistagenötter och gärna mynta.
+
+{% for tag in page.tags %}
+{{ tag }}
+{: .label }
+{% endfor %}

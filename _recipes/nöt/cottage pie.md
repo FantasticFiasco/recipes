@@ -29,3 +29,8 @@ Gör så här
 4. Tillsätt tomatkross och timjan. Krydda med salt och peppar. Låt koka ihop ca 10 minuter. Häll såsen i en smord gratängform.
 5. Blanda moset med persiljan och lägg moset som ett lock på formen. Gratinera i mitten av ugnen ca 15 minuter.
 6. Skala och riv morötterna och servera till gratängen.
+
+{% for tag in page.tags %}
+{{ tag }}
+{: .label }
+{% endfor %}

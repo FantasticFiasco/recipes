@@ -101,3 +101,8 @@ Servering
 1. Skär potatiskakan i tjocka skivor och värm dem i ugnen på 150 grader i 15 min eller i en stekpanna.
 2. Skiva upp oxfilén och lägg skivorna på den varma savoykålen.
 3. Strö de smörstekta kantarellerna ovanpå och garnera med färsk timjan, flingsalt och några varv från svartpepparkvarnen. Avsluta med att hälla på lite rödvinssky över köttet.
+
+{% for tag in page.tags %}
+{{ tag }}
+{: .label }
+{% endfor %}

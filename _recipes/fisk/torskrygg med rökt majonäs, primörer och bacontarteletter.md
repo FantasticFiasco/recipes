@@ -46,3 +46,8 @@ Gör så här
 2. Vispa ihop äggen med dijonsenap och vitvinsvinäger med en elvisp. Droppa i rapsoljan i en tunn stråle och vispa hela tiden. Vispa till oljan och äggen bundit sig till en majonäs. Smaka av med kryddor. Sätt ett laget plastfolie över bunken. Tänd rökspånet i rökpistolen och sätt in slangen i bunken. Fyll skålen med rök och stäng sedan till. Låt stå ca 15 minuter.
 3. Skär träiga delen av sparrisen och skär morötterna till stavar. Lägg ner i en vac-påse och zesta över limeskal, ringla i smör och krydda. Försegla påsen och kör sedan i cirkulator i 85°C i 25 minuter.
 4. Pensla fisken med honung och olja. Krydda ett varv och stek dem sedan.
+
+{% for tag in page.tags %}
+{{ tag }}
+{: .label }
+{% endfor %}

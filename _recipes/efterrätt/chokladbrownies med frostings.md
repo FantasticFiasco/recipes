@@ -42,3 +42,8 @@ kakao, vispa till en fluffig kräm.
 3. Rör ner den smälta chokladen försiktigt.
 4. Bred frostingen på den avsvalnade kakan.
 5. Toppa med det du önskar. T.ex. strössel/hackad choklad/kokos
+
+{% for tag in page.tags %}
+{{ tag }}
+{: .label }
+{% endfor %}

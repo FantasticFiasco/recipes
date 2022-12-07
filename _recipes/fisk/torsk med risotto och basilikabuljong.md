@@ -52,3 +52,8 @@ Gör så här
 4. Torsk
    1. Skär torskfiléerna i 4 lika stora bitar. Salta och peppra och stek dem hastigt i smör i het panna. Lägg över i en ugnssäker form och efterstek i ugnen ca 8 minuter.
 5. Servera risotton och torsken och basilikabuljongen runt om. Garnera med några rucolablad.
+
+{% for tag in page.tags %}
+{{ tag }}
+{: .label }
+{% endfor %}
