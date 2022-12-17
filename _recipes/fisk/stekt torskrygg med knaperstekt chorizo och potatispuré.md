@@ -49,7 +49,4 @@ Gör så här
 5. Sallad: Blanda spenat och ärtskott med olja och vinäger. Krydda med salt och peppar.
 6. Lägg upp blomkålspurén på tallrikar. Lägg på torsken och chorizosmul. Ringla lite av oljan över rätten och garnera med timjan. Servera med salladen.
 
-{% for tag in page.tags %}
-{{ tag }}
-{: .label }
-{% endfor %}
+{% include tags.md %}

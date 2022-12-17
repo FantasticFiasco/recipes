@@ -44,7 +44,4 @@ Gör så här
 3. Tillsätt salt, chiliflakes, ägg och jordnötter. Dra av från plattan, häll på soja och vänd runt. Vispa ihop vinäger, vatten och socker. Vänd ner gurka och salladslök.
 4. Blanda majonnäs och sriracha. Servera fried rice med majonnäs, gurksallad och koriander.
 
-{% for tag in page.tags %}
-{{ tag }}
-{: .label }
-{% endfor %}
+{% include tags.md %}

@@ -47,7 +47,4 @@ Gör så här
 3. Skär träiga delen av sparrisen och skär morötterna till stavar. Lägg ner i en vac-påse och zesta över limeskal, ringla i smör och krydda. Försegla påsen och kör sedan i cirkulator i 85°C i 25 minuter.
 4. Pensla fisken med honung och olja. Krydda ett varv och stek dem sedan.
 
-{% for tag in page.tags %}
-{{ tag }}
-{: .label }
-{% endfor %}
+{% include tags.md %}

@@ -51,7 +51,4 @@ Instruktioner
 7. Ta ut formen och mät upp stekskyn till cirka 6 dl, tillsätt vatten om skyn inte räcker. Smält smöret i en kastrull och tillsätt mjölet. Vispa till en jämn redning och tillsätt stekskyn. Låt såsen sjuda i några minuter och smaka sedan av med soja, vinbärsgelé och lite vitpeppar. Var försiktig med saltet – stekskyn är salt nog som den är. Såsen ska vara tunn och mer som en smaksättare, inte det minsta stabbig! Den som vill kan tillsätta 3–4 msk grädde i såsen.
 8. Servera köttet i skivor med såsen och rödkålen.
 
-{% for tag in page.tags %}
-{{ tag }}
-{: .label }
-{% endfor %}
+{% include tags.md %}

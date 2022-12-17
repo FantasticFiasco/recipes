@@ -30,7 +30,4 @@ Gör så här
 5. Blanda moset med persiljan och lägg moset som ett lock på formen. Gratinera i mitten av ugnen ca 15 minuter.
 6. Skala och riv morötterna och servera till gratängen.
 
-{% for tag in page.tags %}
-{{ tag }}
-{: .label }
-{% endfor %}
+{% include tags.md %}

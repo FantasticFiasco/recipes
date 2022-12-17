@@ -20,7 +20,4 @@ Så här gör man.
 2. Vispa sedan droppvis ner den rumstempererade oljan
 3. Klipp dillen fint, blanda ner och smaka av såsen. Ställ såsen kallt. Den håller sig i ett par veckor.
 
-{% for tag in page.tags %}
-{{ tag }}
-{: .label }
-{% endfor %}
+{% include tags.md %}

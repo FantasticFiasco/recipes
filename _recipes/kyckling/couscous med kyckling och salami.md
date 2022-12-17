@@ -30,7 +30,4 @@ Gör så här
 6. Bre ut couscousen på ett uppläggningsfat. Strö på kyckling, salami, aprikoser,persilja och babyspenat.
 7. Servera med citronyoghurten.
 
-{% for tag in page.tags %}
-{{ tag }}
-{: .label }
-{% endfor %}
+{% include tags.md %}

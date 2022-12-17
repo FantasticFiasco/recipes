@@ -44,7 +44,4 @@ Gör så här
 5. Smula eller bryt halloumin i bitar. Stek halloumin i rapsolja tills den får lite färg. Ringla över honung och strö över sesamfrön och stek ytterligare någon minut.
 6. Toppa salladen med halloumin, tranbär, hackade pistagenötter och gärna mynta.
 
-{% for tag in page.tags %}
-{{ tag }}
-{: .label }
-{% endfor %}
+{% include tags.md %}

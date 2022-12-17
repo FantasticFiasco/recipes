@@ -31,7 +31,4 @@ Gör så här
 5. Sås till pulled pork: Blanda alla ingredienser till såsen i en kastrull och låt den koka upp. Låt koka ca 3 min och låt sedan såsen kallna.
 6. Pensla köttet 3–4 gånger med såsen när ca 1 timme återstår av tillagningstiden. Ta ut och riv köttet i bitar med gafflar.
 
-{% for tag in page.tags %}
-{{ tag }}
-{: .label }
-{% endfor %}
+{% include tags.md %}

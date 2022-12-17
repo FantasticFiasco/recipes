@@ -43,7 +43,4 @@ Gör så här
 6. Lägg i räkorna (de ska inte koka i soppan, då blir de sega).
 7. Aioli: Vispa ihop äggulor och citronsaft eller vinäger. Tillsätt oljorna droppvis under kraftig vispning. Smaka av med pressad vitlök och salt.
 
-{% for tag in page.tags %}
-{{ tag }}
-{: .label }
-{% endfor %}
+{% include tags.md %}

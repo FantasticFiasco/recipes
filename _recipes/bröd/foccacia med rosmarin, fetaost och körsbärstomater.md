@@ -33,7 +33,4 @@ Ingredienser
 11. Grädda i nedre delen av ugnen i cirka 20 minuter eller tills dess att brödet är gyllene.
 12. Smaksättningen går givetvis att variera, men detta är nog en av de godare varianterna. Fantastiskt gott blir det också om man trycker ner lite fina oliver i degen. Hoppas det smakar!
 
-{% for tag in page.tags %}
-{{ tag }}
-{: .label }
-{% endfor %}
+{% include tags.md %}

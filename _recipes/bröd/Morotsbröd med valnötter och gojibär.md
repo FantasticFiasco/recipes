@@ -32,7 +32,4 @@ Gör rotfruktsbrödet så här:
 5. Blanda allt i en bunke. Det blir en kletig smet. Häll över i en form som du klätt med med bakplåtspapper. Jämna till och strö över svarta sesamfrön och havregryn.
 6. Grädda i mitten av ugnen i ca 1 timma eller tills brödet är 98 grader inuti.
 
-{% for tag in page.tags %}
-{{ tag }}
-{: .label }
-{% endfor %}
+{% include tags.md %}

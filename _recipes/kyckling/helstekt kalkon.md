@@ -58,7 +58,4 @@ Sås
 3. Häll ner stekskyn i såsen. Sila såsen genom en finmaskig sil. Koka ner den till ca 5 dl.
 4. Red den med majsstärkelse utrörd i kallt vatten. Smaka av med gelé. Rör i 2 msk smör precis före servering.
 
-{% for tag in page.tags %}
-{{ tag }}
-{: .label }
-{% endfor %}
+{% include tags.md %}

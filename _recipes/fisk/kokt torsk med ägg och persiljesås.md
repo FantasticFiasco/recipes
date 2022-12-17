@@ -31,7 +31,4 @@ Gör så här
 9. Tillsätt hackat ägg och persilja i såsen strax innan servering.
 10. Servera den nykokta torsken med ägg och persiljesås samt potatis. Garnera med en liten dillkvist
 
-{% for tag in page.tags %}
-{{ tag }}
-{: .label }
-{% endfor %}
+{% include tags.md %}

@@ -29,7 +29,4 @@ Gör så här
 1. Fräs curryn i lite olja i en gryta. Tillsätt kokosmjölk, vatten, ingefära, citrongräs, limeskal (endast det gröna), limesaft och buljongtärning. Låt koka ca 10 minuter.
 2. Koka nudlarna enligt anvisning på förpackningen. Tillsätt broccoli, lök, champinjoner och fisksås i currygrytan. Låt koka 1–2 min. Lägg i nudlarna och rör om. Smaka av med salt och peppar. Servera i skålar och strö över chiliflakes.
 
-{% for tag in page.tags %}
-{{ tag }}
-{: .label }
-{% endfor %}
+{% include tags.md %}
