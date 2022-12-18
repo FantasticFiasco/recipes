@@ -1,8 +1,11 @@
 ---
 title: Fried rice med gurksallad och het majonäs
 parent: Vegetariskt
+tags: asien lunch middag
 ---
 ![{{ page.title }}](/recipes/assets/images/{{ page.parent | downcase }}/{{ page.title | downcase }}.jpg)
+
+{% include tags.md %}
 
 Fried rice är en perfekt vardagsrätt när man har överblivet ris och här är vårt recept! Stek riset med grönsaker och ingefära och servera med gurksallad och srirachamajo.
 
@@ -43,5 +46,3 @@ Gör så här
 2. Tillsätt kål, morot och broccoli och stek 2 min till. Tillsätt ingefära, sesamolja och ris. Stek under omrörning tills riset är ordentligt varmt.
 3. Tillsätt salt, chiliflakes, ägg och jordnötter. Dra av från plattan, häll på soja och vänd runt. Vispa ihop vinäger, vatten och socker. Vänd ner gurka och salladslök.
 4. Blanda majonnäs och sriracha. Servera fried rice med majonnäs, gurksallad och koriander.
-
-{% include tags.md %}

@@ -1,8 +1,11 @@
 ---
 title: Våfflor
-parent: Efterrätt
+parent: Sött
+tags: efterrätt
 ---
 ![{{ page.title }}](/recipes/assets/images/{{ page.parent | downcase }}/{{ page.title | downcase }}.jpg)
+
+{% include tags.md %}
 
 ca 10 stycken
 
@@ -25,5 +28,3 @@ GÖR SÅ HÄR
 1. Blanda sedan ner mineralvatten, smält smör, salt, socker och vaniljsocker.
 1. Låt smeten vila en stund innan du börjar grädda våfflorna.
 1. Grädda våfflorna i smort våffeljärn tills de är gyllenbruna. Efter ett par tre våfflor behövs våffeljärnet sällan smörjas igen.
-
-{% include tags.md %}

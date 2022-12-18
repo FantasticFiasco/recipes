@@ -1,8 +1,11 @@
 ---
 title: Pärlcouscous med sesamstekt halloumi och myntayoghurt
 parent: Vegetariskt
+tags: medelhavet lunch middag
 ---
 ![{{ page.title }}](/recipes/assets/images/{{ page.parent | downcase }}/{{ page.title | downcase }}.jpg)
+
+{% include tags.md %}
 
 Ingredienser
 
@@ -43,5 +46,3 @@ Gör så här
 4. Blanda tomat, lök, citronskal och -juice, persilja, olivolja, salt och peppar. Rör ner couscousen.
 5. Smula eller bryt halloumin i bitar. Stek halloumin i rapsolja tills den får lite färg. Ringla över honung och strö över sesamfrön och stek ytterligare någon minut.
 6. Toppa salladen med halloumin, tranbär, hackade pistagenötter och gärna mynta.
-
-{% include tags.md %}

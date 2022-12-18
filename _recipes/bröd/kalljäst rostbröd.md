@@ -1,8 +1,11 @@
 ---
 title: Kalljäst rostbröd
 parent: Bröd
+tags: sverige frukost
 ---
 ![{{ page.title }}](/recipes/assets/images/{{ page.parent | downcase }}/{{ page.title | downcase }}.jpg)
+
+{% include tags.md %}
 
 Gör degen på kvällen och låt den jäsa i kylen över natten. Grädda direkt när du vaknar. Degen jäser endast en gång – direkt i formen. Ta fram den i rumstemperatur ca 20 min före gräddning (under tiden ugnen blir varm).
 
@@ -27,5 +30,3 @@ Gör så här
 3. På morgonen: Ta fram limpformen. Låt den stå i rumstemperatur i ca 20 min. Sätt ugnen på 250 grader.
 4. Pensla limpan med ägg och strö över vallmofrön.
 5. Sänk värmen direkt till 200 grader när du sätter in limpan i ugnen. Grädda den längst ner i 30–35 min. Låt bröden svalna i formen.
-
-{% include tags.md %}

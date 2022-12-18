@@ -1,8 +1,11 @@
 ---
 title: Saffranskryddad fisksoppa med lax och torsk
 parent: Fisk
+tags: lunch middag
 ---
 ![{{ page.title }}](/recipes/assets/images/{{ page.parent | downcase }}/{{ page.title | downcase }}.jpg)
+
+{% include tags.md %}
 
 Värmande och vacker fisksoppa med saffran, lax och torsk. På bara en kvart har du en lättlagad och god soppa!
 
@@ -31,5 +34,3 @@ Ingredienser
 4. Tillsätt vitt vin och låt sjuda i ca 2 min så att vinet reduceras.
 5. Tillsätt vatten, fond, grädde och creme fraiche och låt soppan sjuda under lock i ca 10 min. Smaka av soppan med salt och peppar.
 6. Tillsätt fiskbitarna och låt de sjuda i soppan i ca 4-5 min. Tillsätt räkor och servera meddetsamma. Njut av en fantastisk fisksoppa.
-
-{% include tags.md %}

@@ -1,8 +1,11 @@
 ---
 title: Filmjölksbröd
 parent: Bröd
+tags: sverige frukost
 ---
 ![{{ page.title }}](/recipes/assets/images/{{ page.parent | downcase }}/{{ page.title | downcase }}.jpg)
+
+{% include tags.md %}
 
 - 2 dl fiberhavregryn
 - 5 dl vetemjöl
@@ -21,5 +24,3 @@ Gör så här:
 2. Blanda alla torra ingredienser i en bunke. Rör i filmjölk, honung och sylt.
 3. Klicka ner smeten i en smord, avlång bakform. Grädda i nedre delen av ugnen ca 1h.
 4. Stjälp upp filmjölksbrödet och låt det svalna under bakduk.
-
-{% include tags.md %}

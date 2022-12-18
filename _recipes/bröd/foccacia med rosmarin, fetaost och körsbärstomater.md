@@ -1,8 +1,11 @@
 ---
 title: Foccacia med rosmarin, fetaost och körsbärstomater
 parent: Bröd
+tags: italien brunch lunch middag
 ---
 ![{{ page.title }}](/recipes/assets/images/{{ page.parent | downcase }}/{{ page.title | downcase }}.jpg)
+
+{% include tags.md %}
 
 Italienskt matbröd som bakas i långpannor och skärs i rutor. Denna är smaksatt med fetaost, tomater och rosmarin.
 
@@ -32,5 +35,3 @@ Ingredienser
 10. Strö över färsk eller torkad rosmarin samt flingsalt.
 11. Grädda i nedre delen av ugnen i cirka 20 minuter eller tills dess att brödet är gyllene.
 12. Smaksättningen går givetvis att variera, men detta är nog en av de godare varianterna. Fantastiskt gott blir det också om man trycker ner lite fina oliver i degen. Hoppas det smakar!
-
-{% include tags.md %}

@@ -1,8 +1,11 @@
 ---
 title: Fröknäcke
 parent: Bröd
+tags: sverige brunch fika
 ---
 ![{{ page.title }}](/recipes/assets/images/{{ page.parent | downcase }}/{{ page.title | downcase }}.jpg)
+
+{% include tags.md %}
 
 Ingredienser
 
@@ -22,5 +25,3 @@ Gör så här
 2. Lägg ett bakplåtspapper på en plåt, ca 30x40 cm (för 1 sats).
 3. Blanda alla torra ingredienser och rör i olja och vatten. Låt svälla ca 15 minuter.
 4. Bred ut smeten tunt på plåten. Grädda mitt i ugnen ca 1-1 1/2 timme. Drag över bakplåtspappret med knäcket på ett galler och låt svalna.
-
-{% include tags.md %}

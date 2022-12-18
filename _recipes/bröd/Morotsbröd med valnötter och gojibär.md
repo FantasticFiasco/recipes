@@ -1,8 +1,11 @@
 ---
 title: Morotsbröd med valnötter och gojibär
 parent: Bröd
+tags: sverige frukost
 ---
 ![{{ page.title }}](/recipes/assets/images/{{ page.parent | downcase }}/{{ page.title | downcase }}.jpg)
+
+{% include tags.md %}
 
 Ingredienser
 
@@ -31,5 +34,3 @@ Gör rotfruktsbrödet så här:
 4. Riv morötterna och hacka valnötterna och ta fram gojibären.
 5. Blanda allt i en bunke. Det blir en kletig smet. Häll över i en form som du klätt med med bakplåtspapper. Jämna till och strö över svarta sesamfrön och havregryn.
 6. Grädda i mitten av ugnen i ca 1 timma eller tills brödet är 98 grader inuti.
-
-{% include tags.md %}

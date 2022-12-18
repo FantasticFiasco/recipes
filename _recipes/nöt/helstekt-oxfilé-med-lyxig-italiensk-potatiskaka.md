@@ -1,8 +1,11 @@
 ---
 title: Helstekt oxfilé med lyxig italiensk potatiskaka
 parent: Nöt
+tags: middag
 ---
 ![{{ page.title }}](/recipes/assets/images/{{ page.parent | downcase }}/{{ page.title | downcase }}.jpg)
+
+{% include tags.md %}
 
 Lyxig oxfilé i gott sällskap av kantareller, krämig savoykål och en mjäll potatiskaka. Perfekt till festligare tillfällen som nyår! Tips! Börja med potatiskakan, den ska göras minst 3 timmar i förväg för att man ska kunna skära den i skivor.
 
@@ -101,5 +104,3 @@ Servering
 1. Skär potatiskakan i tjocka skivor och värm dem i ugnen på 150 grader i 15 min eller i en stekpanna.
 2. Skiva upp oxfilén och lägg skivorna på den varma savoykålen.
 3. Strö de smörstekta kantarellerna ovanpå och garnera med färsk timjan, flingsalt och några varv från svartpepparkvarnen. Avsluta med att hälla på lite rödvinssky över köttet.
-
-{% include tags.md %}

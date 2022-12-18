@@ -1,8 +1,11 @@
 ---
 title: Stekt torskrygg med knaperstekt chorizo och potatispuré
 parent: Fisk
+tags: lunch middag
 ---
 ![{{ page.title }}](/recipes/assets/images/{{ page.parent | downcase }}/{{ page.title | downcase }}.jpg)
+
+{% include tags.md %}
 
 Recept på timjanstekt torskrygg med knaperstekt chorizo och blomkåls- och potatispuré. Ös smöret över torsken när du steker, det ger den extra god smak. Den kryddiga chorizon ger ett härligt krisp till rätten. Spara oljan från stekning, den ger smak och det ser även snyggt ut på tallriken.
 
@@ -48,5 +51,3 @@ Gör så här
 4. Ta upp torsken ur rimlagen och stek den i 25 g smör tillsammans med vitlök och repad timjan, ös med smöret under tiden du steker. Lägg över torsken i en ugnssäker form och häll över smöret. Tillaga torsken mitt i ugnen tills innertemperaturen är 55°.
 5. Sallad: Blanda spenat och ärtskott med olja och vinäger. Krydda med salt och peppar.
 6. Lägg upp blomkålspurén på tallrikar. Lägg på torsken och chorizosmul. Ringla lite av oljan över rätten och garnera med timjan. Servera med salladen.
-
-{% include tags.md %}

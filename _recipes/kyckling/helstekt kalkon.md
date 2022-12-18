@@ -1,8 +1,11 @@
 ---
 title: Helstekt kalkon
 parent: Kyckling
+tags: middag
 ---
 ![{{ page.title }}](/recipes/assets/images/{{ page.parent | downcase }}/{{ page.title | downcase }}.jpg)
+
+{% include tags.md %}
 
 Ingredienser
 
@@ -57,5 +60,3 @@ Sås
 2. Tillsätt persiljestjälkarna och häll på portvin, ­vin, vatten och kalvfond. Lägg i timjanen, koka upp och låt sjuda utan lock ca 45 min.
 3. Häll ner stekskyn i såsen. Sila såsen genom en finmaskig sil. Koka ner den till ca 5 dl.
 4. Red den med majsstärkelse utrörd i kallt vatten. Smaka av med gelé. Rör i 2 msk smör precis före servering.
-
-{% include tags.md %}

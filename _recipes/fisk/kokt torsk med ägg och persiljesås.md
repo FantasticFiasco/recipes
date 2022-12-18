@@ -1,8 +1,11 @@
 ---
 title: Kokt torsk med ägg och persiljesås
 parent: Fisk
+tags: sverige lunch middag
 ---
 ![{{ page.title }}](/recipes/assets/images/{{ page.parent | downcase }}/{{ page.title | downcase }}.jpg)
+
+{% include tags.md %}
 
 Ingredienser
 
@@ -30,5 +33,3 @@ Gör så här
 8. Det går också bra att steka torskfiléer i en stekpanna.
 9. Tillsätt hackat ägg och persilja i såsen strax innan servering.
 10. Servera den nykokta torsken med ägg och persiljesås samt potatis. Garnera med en liten dillkvist
-
-{% include tags.md %}

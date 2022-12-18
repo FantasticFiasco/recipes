@@ -1,8 +1,11 @@
 ---
 title: Couscous med kyckling och salami
 parent: Kyckling
+tags: medelhavet lunch middag
 ---
 ![{{ page.title }}](/recipes/assets/images/{{ page.parent | downcase }}/{{ page.title | downcase }}.jpg)
+
+{% include tags.md %}
 
 Ingredienser
 
@@ -29,5 +32,3 @@ Gör så här
 5. Blanda matyoghurt med finrivet skal från citron, salt och peppar.
 6. Bre ut couscousen på ett uppläggningsfat. Strö på kyckling, salami, aprikoser,persilja och babyspenat.
 7. Servera med citronyoghurten.
-
-{% include tags.md %}

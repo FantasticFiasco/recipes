@@ -1,8 +1,11 @@
 ---
 title: Pulled pork
 parent: Fläsk
+tags: amerika lunch middag
 ---
 ![{{ page.title }}](/recipes/assets/images/{{ page.parent | downcase }}/{{ page.title | downcase }}.jpg)
+
+{% include tags.md %}
 
 - 1,5 kg fläskkarré
 - 5 vitlöksklyftor
@@ -30,5 +33,3 @@ Gör så här
 4. Sätt ugnen på 125 grader. Ta bort plasten från köttet och ställ det mitt i ugnen. Låt stå ca 8 timmar.
 5. Sås till pulled pork: Blanda alla ingredienser till såsen i en kastrull och låt den koka upp. Låt koka ca 3 min och låt sedan såsen kallna.
 6. Pensla köttet 3–4 gånger med såsen när ca 1 timme återstår av tillagningstiden. Ta ut och riv köttet i bitar med gafflar.
-
-{% include tags.md %}

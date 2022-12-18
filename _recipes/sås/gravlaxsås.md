@@ -1,8 +1,11 @@
 ---
 title: Gravlaxsås
 parent: Sås
+tags: sverige lunch middag lax
 ---
 ![{{ page.title }}](/recipes/assets/images/{{ page.parent | downcase }}/{{ page.title | downcase }}.jpg)
+
+{% include tags.md %}
 
 Det här behöver man till ca 4 dl.
 
@@ -19,5 +22,3 @@ Så här gör man.
 1. Blanda senap, salt, socker, vitpeppar och vinäger i en skål.
 2. Vispa sedan droppvis ner den rumstempererade oljan
 3. Klipp dillen fint, blanda ner och smaka av såsen. Ställ såsen kallt. Den håller sig i ett par veckor.
-
-{% include tags.md %}

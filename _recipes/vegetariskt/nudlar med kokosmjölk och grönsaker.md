@@ -1,8 +1,11 @@
 ---
 title: Nudlar med kokosmjölk och grönsaker
 parent: Vegetariskt
+tags: asien lunch middag
 ---
 ![{{ page.title }}](/recipes/assets/images/{{ page.parent | downcase }}/{{ page.title | downcase }}.jpg)
+
+{% include tags.md %}
 
 Snabb gryta med grön currypasta, kokosmjölk, broccoli, purjolök och champinjoner. Enkelt recept på vardagsmiddag!
 
@@ -28,5 +31,3 @@ Gör så här
 
 1. Fräs curryn i lite olja i en gryta. Tillsätt kokosmjölk, vatten, ingefära, citrongräs, limeskal (endast det gröna), limesaft och buljongtärning. Låt koka ca 10 minuter.
 2. Koka nudlarna enligt anvisning på förpackningen. Tillsätt broccoli, lök, champinjoner och fisksås i currygrytan. Låt koka 1–2 min. Lägg i nudlarna och rör om. Smaka av med salt och peppar. Servera i skålar och strö över chiliflakes.
-
-{% include tags.md %}
