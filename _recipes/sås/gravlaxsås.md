@@ -1,8 +1,11 @@
 ---
 title: Gravlaxsås
 parent: Sås
+tags: sverige lunch middag lax
 ---
 ![{{ page.title }}](/recipes/assets/images/{{ page.parent | downcase }}/{{ page.title | downcase }}.jpg)
+
+{% include tags.md %}
 
 Det här behöver man till ca 4 dl.
 

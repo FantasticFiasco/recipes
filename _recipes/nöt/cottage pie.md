@@ -1,8 +1,11 @@
 ---
 title: Cottage pie
 parent: Nöt
+tags: england lunch middag
 ---
 ![{{ page.title }}](/recipes/assets/images/{{ page.parent | downcase }}/{{ page.title | downcase }}.jpg)
+
+{% include tags.md %}
 
 Ingredienser
 

@@ -1,8 +1,11 @@
 ---
 title: Torsk med risotto och basilikabuljong
 parent: Fisk
+tags: lunch middag
 ---
 ![{{ page.title }}](/recipes/assets/images/{{ page.parent | downcase }}/{{ page.title | downcase }}.jpg)
+
+{% include tags.md %}
 
 Ingredienser
 

@@ -1,8 +1,11 @@
 ---
 title: Koreansk BBQ
 parent: Nöt
+tags: sydkorea lunch middag
 ---
 ![{{ page.title }}](/recipes/assets/images/{{ page.parent | downcase }}/{{ page.title | downcase }}.jpg)
+
+{% include tags.md %}
 
 Ingredienser
 

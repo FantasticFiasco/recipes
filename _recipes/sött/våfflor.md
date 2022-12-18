@@ -1,8 +1,11 @@
 ---
 title: Våfflor
-parent: Efterrätt
+parent: Sött
+tags: efterrätt
 ---
 ![{{ page.title }}](/recipes/assets/images/{{ page.parent | downcase }}/{{ page.title | downcase }}.jpg)
+
+{% include tags.md %}
 
 ca 10 stycken
 

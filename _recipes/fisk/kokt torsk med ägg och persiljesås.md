@@ -1,8 +1,11 @@
 ---
 title: Kokt torsk med ägg och persiljesås
 parent: Fisk
+tags: sverige lunch middag
 ---
 ![{{ page.title }}](/recipes/assets/images/{{ page.parent | downcase }}/{{ page.title | downcase }}.jpg)
+
+{% include tags.md %}
 
 Ingredienser
 

@@ -1,8 +1,11 @@
 ---
 title: Pärlcouscous med sesamstekt halloumi och myntayoghurt
 parent: Vegetariskt
+tags: medelhavet lunch middag
 ---
 ![{{ page.title }}](/recipes/assets/images/{{ page.parent | downcase }}/{{ page.title | downcase }}.jpg)
+
+{% include tags.md %}
 
 Ingredienser
 

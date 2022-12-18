@@ -1,5 +1,5 @@
 ---
-title: Efterrätt
+title: Sött
 has_children: true
 layout: category
 ---

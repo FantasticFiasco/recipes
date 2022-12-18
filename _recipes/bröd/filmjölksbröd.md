@@ -1,8 +1,11 @@
 ---
 title: Filmjölksbröd
 parent: Bröd
+tags: sverige frukost
 ---
 ![{{ page.title }}](/recipes/assets/images/{{ page.parent | downcase }}/{{ page.title | downcase }}.jpg)
+
+{% include tags.md %}
 
 - 2 dl fiberhavregryn
 - 5 dl vetemjöl

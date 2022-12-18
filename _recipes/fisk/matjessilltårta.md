@@ -1,8 +1,11 @@
 ---
 title: Matjessilltårta
 parent: Fisk
+tags: sverige lunch middag påsk
 ---
 ![{{ page.title }}](/recipes/assets/images/{{ page.parent | downcase }}/{{ page.title | downcase }}.jpg)
+
+{% include tags.md %}
 
 10–12 personer
 

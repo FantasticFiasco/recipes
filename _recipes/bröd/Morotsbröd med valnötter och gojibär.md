@@ -1,8 +1,11 @@
 ---
 title: Morotsbröd med valnötter och gojibär
 parent: Bröd
+tags: sverige frukost
 ---
 ![{{ page.title }}](/recipes/assets/images/{{ page.parent | downcase }}/{{ page.title | downcase }}.jpg)
+
+{% include tags.md %}
 
 Ingredienser
 

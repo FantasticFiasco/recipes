@@ -1,8 +1,11 @@
 ---
 title: Nudlar med kokosmjölk och grönsaker
 parent: Vegetariskt
+tags: asien lunch middag
 ---
 ![{{ page.title }}](/recipes/assets/images/{{ page.parent | downcase }}/{{ page.title | downcase }}.jpg)
+
+{% include tags.md %}
 
 Snabb gryta med grön currypasta, kokosmjölk, broccoli, purjolök och champinjoner. Enkelt recept på vardagsmiddag!
 

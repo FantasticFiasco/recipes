@@ -1,8 +1,11 @@
 ---
 title: Pulled pork
 parent: Fläsk
+tags: amerika lunch middag
 ---
 ![{{ page.title }}](/recipes/assets/images/{{ page.parent | downcase }}/{{ page.title | downcase }}.jpg)
+
+{% include tags.md %}
 
 - 1,5 kg fläskkarré
 - 5 vitlöksklyftor
