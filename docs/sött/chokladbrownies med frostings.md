@@ -5,10 +5,6 @@ tags:
     - amerika
     - efterrätt
 ---
-![{{ page.title }}](/recipes/assets/images/{{ page.parent | downcase }}/{{ page.title | downcase }}.jpg)
-
-{% include tags.md %}
-
 12 stora bitar
 
 - 150 g smör, rumsvarmt

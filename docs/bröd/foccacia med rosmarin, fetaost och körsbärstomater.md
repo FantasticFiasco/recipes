@@ -7,10 +7,6 @@ tags:
     - lunch
     - middag
 ---
-![{{ page.title }}](/recipes/assets/images/{{ page.parent | downcase }}/{{ page.title | downcase }}.jpg)
-
-{% include tags.md %}
-
 Italienskt matbröd som bakas i långpannor och skärs i rutor. Denna är smaksatt med fetaost, tomater och rosmarin.
 
 Ingredienser

@@ -4,10 +4,6 @@ parent: Kyckling
 tags:
     - middag
 ---
-![{{ page.title }}](/recipes/assets/images/{{ page.parent | downcase }}/{{ page.title | downcase }}.jpg)
-
-{% include tags.md %}
-
 Ingredienser
 
 - 1 kalkon - (ca 4,5 kilo)

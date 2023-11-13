@@ -6,10 +6,6 @@ tags:
     - italien
     - efterrätt
 ---
-![{{ page.title }}](/recipes/assets/images/{{ page.parent | downcase }}/{{ page.title | downcase }}.jpg)
-
-{% include tags.md %}
-
 14 bitar
 
 Digestivebotten

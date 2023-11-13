@@ -4,10 +4,6 @@ parent: Nöt
 tags:
     - middag
 ---
-![{{ page.title }}](/recipes/assets/images/{{ page.parent | downcase }}/{{ page.title | downcase }}.jpg)
-
-{% include tags.md %}
-
 Lyxig oxfilé i gott sällskap av kantareller, krämig savoykål och en mjäll potatiskaka. Perfekt till festligare tillfällen som nyår! Tips! Börja med potatiskakan, den ska göras minst 3 timmar i förväg för att man ska kunna skära den i skivor.
 
 Ingredienser

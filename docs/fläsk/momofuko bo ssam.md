@@ -5,10 +5,6 @@ tags:
     - sydkorea
     - middag
 ---
-![{{ page.title }}](/recipes/assets/images/{{ page.parent | downcase }}/{{ page.title | downcase }}.jpg)
-
-{% include tags.md %}
-
 Stek
 
 - 5 kg fläskkarré

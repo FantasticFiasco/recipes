@@ -7,10 +7,6 @@ tags:
     - middag
     - påsk
 ---
-![{{ page.title }}](/recipes/assets/images/{{ page.parent | downcase }}/{{ page.title | downcase }}.jpg)
-
-{% include tags.md %}
-
 10–12 personer
 
 Recept på matjessilltårta. En populär sillrätt som går bra att förbereda.
