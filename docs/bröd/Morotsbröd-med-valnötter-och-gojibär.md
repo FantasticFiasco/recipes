@@ -4,7 +4,7 @@ tags:
     - sverige
     - frukost
 ---
-![image](/img/bröd/Morotsbröd-med-valnötter-och-gojibär.jpg)
+![image](/img/bröd/morotsbröd-med-valnötter-och-gojibär.jpg)
 
 Ingredienser
 
