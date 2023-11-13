@@ -1,10 +1,11 @@
 ---
 title: Chokladbrownies med frosting
-parent: Sött
 tags:
     - amerika
     - efterrätt
 ---
+![image](/img/sött/chokladbrownies-med-frostings.jpg)
+
 12 stora bitar
 
 - 150 g smör, rumsvarmt

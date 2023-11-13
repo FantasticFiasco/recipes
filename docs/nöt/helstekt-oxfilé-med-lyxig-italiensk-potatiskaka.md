@@ -1,9 +1,10 @@
 ---
 title: Helstekt oxfilé med lyxig italiensk potatiskaka
-parent: Nöt
 tags:
     - middag
 ---
+![image](/img/nöt/helstekt-oxfilé-med-lyxig-italiensk-potatiskaka.jpg)
+
 Lyxig oxfilé i gott sällskap av kantareller, krämig savoykål och en mjäll potatiskaka. Perfekt till festligare tillfällen som nyår! Tips! Börja med potatiskakan, den ska göras minst 3 timmar i förväg för att man ska kunna skära den i skivor.
 
 Ingredienser

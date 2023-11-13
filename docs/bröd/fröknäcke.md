@@ -1,11 +1,12 @@
 ---
 title: Fröknäcke
-parent: Bröd
 tags:
     - sverige
     - brunch
     - fika
 ---
+![image](/img/bröd/fröknäcke.jpg)
+
 Ingredienser
 
 - 1 dl sesamfrö

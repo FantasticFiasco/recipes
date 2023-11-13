@@ -1,12 +1,13 @@
 ---
 title: Gravlaxsås
-parent: Sås
 tags:
     - sverige
     - lunch
     - middag
     - lax
 ---
+![image](/img/sås/gravlaxsås.jpg)
+
 Det här behöver man till ca 4 dl.
 
 - 3/4 dl svensk senap

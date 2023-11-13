@@ -1,10 +1,11 @@
 ---
 title: Tareqs gräddiga fisksoppa
-parent: Fisk
 tags:
     - lunch
     - middag
 ---
+![image](/img/fisk/tareqs-gräddiga-fisksoppa.jpg)
+
 Ingredienser
 
 - 200 g torskfilé

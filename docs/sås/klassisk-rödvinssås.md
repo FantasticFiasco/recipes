@@ -1,12 +1,13 @@
 ---
-title: Rödvinssås (klassisk)
-parent: Sås
+title: Klassisk rödvinssås
 tags:
     - sverige
     - lunch
     - middag
     - kött
 ---
+![image](/img/sås/klassisk-rödvinssås.jpg)
+
 Ingredienser
 
 - 3 dl rödvin

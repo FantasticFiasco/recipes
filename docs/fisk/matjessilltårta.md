@@ -1,12 +1,13 @@
 ---
 title: Matjessilltårta
-parent: Fisk
 tags:
     - sverige
     - lunch
     - middag
     - påsk
 ---
+![image](/img/fisk/matjessilltårta.jpg)
+
 10–12 personer
 
 Recept på matjessilltårta. En populär sillrätt som går bra att förbereda.

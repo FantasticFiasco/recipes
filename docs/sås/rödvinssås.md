@@ -1,12 +1,13 @@
 ---
 title: Rödvinssås
-parent: Sås
 tags:
     - sverige
     - lunch
     - middag
     - kött
 ---
+![image](/img/sås/rödvinssås.jpg)
+
 Ingredienser
 
 - 1 gul lök

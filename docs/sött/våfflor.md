@@ -1,9 +1,10 @@
 ---
 title: Våfflor
-parent: Sött
 tags:
     - efterrätt
 ---
+![image](/img/sött/våfflor.jpg)
+
 ca 10 stycken
 
 Ingredienser

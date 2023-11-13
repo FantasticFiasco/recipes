@@ -1,10 +1,11 @@
 ---
 title: Kalljäst rostbröd
-parent: Bröd
 tags:
     - sverige
     - frukost
 ---
+![image](/img/bröd/kalljäst-rostbröd.jpg)
+
 Gör degen på kvällen och låt den jäsa i kylen över natten. Grädda direkt när du vaknar. Degen jäser endast en gång – direkt i formen. Ta fram den i rumstemperatur ca 20 min före gräddning (under tiden ugnen blir varm).
 
 Ingredienser

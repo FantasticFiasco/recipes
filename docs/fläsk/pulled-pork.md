@@ -1,11 +1,12 @@
 ---
 title: Pulled pork
-parent: Fläsk
 tags:
     - amerika
     - lunch
     - middag
 ---
+![image](/img/fläsk/pulled-pork.jpg)
+
 - 1,5 kg fläskkarré
 - 5 vitlöksklyftor
 - 1,5 msk paprikapulver

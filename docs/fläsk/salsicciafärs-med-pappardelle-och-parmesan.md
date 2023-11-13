@@ -1,12 +1,13 @@
 ---
 title: Salsicciafärs med pappardelle och parmesan
-parent: Fläsk
 tags:
     - italien
     - pasta
     - lunch
     - middag
 ---
+![image](/img/fläsk/salsicciafärs-med-pappardelle-och-parmesan.jpg)
+
 Ingredienser
 
 Salsicciafärs

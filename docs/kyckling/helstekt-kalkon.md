@@ -1,9 +1,10 @@
 ---
 title: Helstekt kalkon
-parent: Kyckling
 tags:
     - middag
 ---
+![image](/img/kyckling/helstekt-kalkon.jpg)
+
 Ingredienser
 
 - 1 kalkon - (ca 4,5 kilo)

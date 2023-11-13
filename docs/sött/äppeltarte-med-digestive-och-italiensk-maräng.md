@@ -1,11 +1,12 @@
 ---
 title: Äppeltarte med digestive och italiensk maräng
-parent: Sött
 tags:
     - sverige
     - italien
     - efterrätt
 ---
+![image](/img/sött/äppeltarte-med-digestive-och-italiensk-maräng.jpg)
+
 14 bitar
 
 Digestivebotten

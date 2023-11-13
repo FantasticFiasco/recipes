@@ -1,10 +1,11 @@
 ---
 title: Momofuko Bo Ssam
-parent: Fläsk
 tags:
     - sydkorea
     - middag
 ---
+![image](/img/fläsk/momofuko-bo-ssam.jpg)
+
 Stek
 
 - 5 kg fläskkarré

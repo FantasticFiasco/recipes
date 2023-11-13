@@ -1,11 +1,12 @@
 ---
 title: Koreansk BBQ
-parent: Nöt
 tags:
     - sydkorea
     - lunch
     - middag
 ---
+![image](/img/nöt/koreansk-bbq.jpg)
+
 Ingredienser
 
 - 800 g entrecôte, hängmörad, i tjocka skivor

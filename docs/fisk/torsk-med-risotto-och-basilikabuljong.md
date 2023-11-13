@@ -1,10 +1,11 @@
 ---
 title: Torsk med risotto och basilikabuljong
-parent: Fisk
 tags:
    - lunch
    - middag
 ---
+![image](/img/fisk/torsk-med-risotto-och-basilikabuljong.jpg)
+
 Ingredienser
 
 Torsk

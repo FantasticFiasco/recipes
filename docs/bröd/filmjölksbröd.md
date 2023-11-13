@@ -1,10 +1,11 @@
 ---
 title: Filmjölksbröd
-parent: Bröd
 tags:
     - sverige
     - frukost
 ---
+![image](/img/bröd/filmjölksbröd.jpg)
+
 - 2 dl fiberhavregryn
 - 5 dl vetemjöl
 - 1 dl krossade linfrön

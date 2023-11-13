@@ -1,10 +1,11 @@
 ---
 title: Morotsbröd med valnötter och gojibär
-parent: Bröd
 tags:
     - sverige
     - frukost
 ---
+![image](/img/bröd/Morotsbröd-med-valnötter-och-gojibär.jpg)
+
 Ingredienser
 
 - 5 dl havregryn

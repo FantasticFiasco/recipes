@@ -1,11 +1,12 @@
 ---
 title: Couscous med kyckling och salami
-parent: Kyckling
 tags:
     - medelhavet
     - lunch
     - middag
 ---
+![image](/img/kyckling/couscous-med-kyckling-och-salami.jpg)
+
 Ingredienser
 
 - 4 dl vatten

@@ -1,9 +1,10 @@
 ---
 title: Torskrygg med rökt majonäs, primörer och bacontarteletter
-parent: Fisk
 tags:
     - middag
 ---
+![image](/img/fisk/torskrygg-med-rökt-majonäs-primörer-och-bacontarteletter.jpg)
+
 Kål- och bacontarteletter:
 
 - 250 g vitkål

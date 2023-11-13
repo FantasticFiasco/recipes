@@ -1,11 +1,12 @@
 ---
 title: Cottage pie
-parent: Nöt
 tags:
     - england
     - lunch
     - middag
 ---
+![image](/img/nöt/cottage-pie.jpg)
+
 Ingredienser
 
 - 1 gul lök

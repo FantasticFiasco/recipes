@@ -1,10 +1,11 @@
 ---
 title: Fisksoppa med saffran och aioli
-parent: Fisk
 tags:
     - lunch
     - middag
 ---
+![image](/img/fisk/fisksoppa-med-saffran-och-aioli.jpg)
+
 Recept på en underbar, matig fisksoppa med torsk, lax, räkor, fänkål och saffran. Koka en egen fond på räkskalen för att ge soppan mesta möjliga smak.
 
 Ingredienser

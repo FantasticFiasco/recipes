@@ -1,12 +1,13 @@
 ---
 title: Högrevsgryta
-parent: Nöt
 tags:
     - frankrike
     - italien
     - lunch
     - middag
 ---
+![image](/img/nöt/högrevsgryta.jpg)
+
 Ingredienser
 
 - 1 kg högrev, grovt skuren

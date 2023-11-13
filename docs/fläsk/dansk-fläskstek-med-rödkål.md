@@ -1,11 +1,12 @@
 ---
 title: Dansk fläskstek med rödkål
-parent: Fläsk
 tags:
     - danmark
     - lunch
     - middag
 ---
+![image](/img/fläsk/dansk-fläskstek-med-rödkål.jpg)
+
 Ingredienser
 
 - 1,5 kg 5 kg

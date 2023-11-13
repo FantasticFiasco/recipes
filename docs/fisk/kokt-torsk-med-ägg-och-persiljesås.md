@@ -1,11 +1,12 @@
 ---
 title: Kokt torsk med ägg och persiljesås
-parent: Fisk
 tags:
     - sverige
     - lunch
     - middag
 ---
+![image](/img/fisk/kokt-torsk-med-ägg-och-persiljesås.jpg)
+
 Ingredienser
 
 - 2 dl fiskbuljong
