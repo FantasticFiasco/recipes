@@ -8,7 +8,7 @@ tags:
 
 ![image](/img/fläsk/dansk-fläskstek-med-rödkål.jpg)
 
-Ingredienser
+## Ingredienser
 
 - 1,5 kg 5 kg
 - 2-3 msk salt
@@ -44,7 +44,7 @@ Rödkål
 - 5-8 kryddpepparkorn
 - Salt och svartpeppar ur kvarn
 
-Instruktioner
+## Gör så här
 
 1. Fräs kål, lök och äpple till rödkålen i fett tills det mjuknar. Tillsätt övriga ingredienser och låt koka upp. Sjud sedan under lock i cirka 10 minuter. Ta av locket och låt kålen småputtra i ytterligare 30–35 minuter, tills den är helt mör och vätskan har kokat in och blivit lätt simmig. Smaka av med salt och peppar.
 2. Värm ugnen till 130 grader.

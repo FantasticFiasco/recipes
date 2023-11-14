@@ -8,7 +8,7 @@ tags:
 
 ![image](/img/kyckling/couscous-med-kyckling-och-salami.jpg)
 
-Ingredienser
+## Ingredienser
 
 - 4 dl vatten
 - 3 krm salt
@@ -24,7 +24,7 @@ Ingredienser
 - 2 krm peppar
 - 1 påse babyspenat
 
-Gör så här
+## Gör så här
 
 1. Koka upp vatten och salt. Tillsätt couscous och ta från värmen. Låt dra under lock 10 minuter. Rör ner margarin.
 2. Rensa kycklingen fri från skinn och ben. Skär köttet i mindre bitar.

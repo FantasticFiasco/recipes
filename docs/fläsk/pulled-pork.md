@@ -8,6 +8,8 @@ tags:
 
 ![image](/img/fläsk/pulled-pork.jpg)
 
+## Ingredienser
+
 - 1,5 kg fläskkarré
 - 5 vitlöksklyftor
 - 1,5 msk paprikapulver
@@ -26,7 +28,7 @@ Sås
 - 0,5 tsk salt
 - 2 krm svartpeppar - nymald
 
-Gör så här
+## Gör så här
 
 1. Stick i köttet med en gaffel (för att kryddorna ska kunna ta sig in). Skala och finhacka vitlöken.
 2. Blanda med paprikapulver, farinsocker, spiskummin, flingsalt och cayennepeppar och gnid in köttet.

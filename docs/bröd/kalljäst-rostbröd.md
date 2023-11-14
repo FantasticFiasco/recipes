@@ -9,7 +9,7 @@ tags:
 
 Gör degen på kvällen och låt den jäsa i kylen över natten. Grädda direkt när du vaknar. Degen jäser endast en gång – direkt i formen. Ta fram den i rumstemperatur ca 20 min före gräddning (under tiden ugnen blir varm).
 
-Ingredienser
+## Ingredienser
 
 - 25 g jäst
 - 3 dl vatten, fingervarmt
@@ -23,7 +23,7 @@ Garnering
 - 1 ägg
 - Vita eller blå vallmofrön
 
-Gör så här
+## Gör så här
 
 1. Smula jästen i en bunke. Tillsätt vattnet och blanda tills jästen lösts upp. Rör ner sirap, olja, salt och vetemjöl, lite i taget. Rör ihop allt till en deg.
 2. Forma degen till en limpa med mjölade händer. Lägg den i en limpform, ca 1 ½ liter, klädd med bakplåtspapper. Strö över lite mjöl och täck den med plastfolie. Låt den jäsa i kylen över natten.

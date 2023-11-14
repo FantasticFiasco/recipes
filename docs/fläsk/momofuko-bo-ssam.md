@@ -7,6 +7,8 @@ tags:
 
 ![image](/img/fläsk/momofuko-bo-ssam.jpg)
 
+## Ingredienser
+
 Stek
 
 - 5 kg fläskkarré
@@ -56,7 +58,7 @@ Tillbehör
 - Salladsblad
 - Kimchi
 
-Gör så här:
+## Gör så här
 
 1. Blanda salt och socker. Gnugga in i köttet. Kyl under natten.
 2. Sätt ugnen på 150 C. Ta ut köttet ur kylen och häll av all vätska. Ta även bort allt överflödigt socker och salt. Sätt in köttet i ugnen och var beredd på att den ska vara därinne i 6h. Ta ut den varje timme och pensla köttet.

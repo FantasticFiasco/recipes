@@ -6,7 +6,7 @@ tags:
 
 ![image](/img/kyckling/helstekt-kalkon.jpg)
 
-Ingredienser
+## Ingredienser
 
 - 1 kalkon - (ca 4,5 kilo)
 - 2 dl örter - t ex salvia, rosmarin och timjan, hackade
@@ -46,7 +46,7 @@ Sås
 - 1 msk majsstärkelse (Maizena)
 - 2 msk vinbärsgelé
 
-Gör så här
+## Gör så här
 
 1. Plocka ut inkråmet ur kalkonen till såsen.
 2. Torka kalkonen och fyll med apelsin och lök i klyftor, timjan, lagerblad, krossad svartpeppar och 1/2 tsk salt. Bind om benen med steksnöre. Krydda med 1 tsk salt och nymald svartpeppar, pensla med smör.

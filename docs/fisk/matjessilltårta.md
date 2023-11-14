@@ -13,7 +13,7 @@ tags:
 
 Recept på matjessilltårta. En populär sillrätt som går bra att förbereda.
 
-Ingredienser
+## Ingredienser
 
 - 75 g smör
 - 225 g kavring
@@ -31,6 +31,8 @@ Fyllning
 Garnering
 
 - 2 msk gräslök
+
+## Gör så här
 
 1. Smält smöret. Mixa kavring och smör till smulor. Tryck ut smulorna i bottnen på en form med löstagbar kant, ca 24 cm i diameter. Ställ formen i kylen ca 15 min.
 2. Fyllning: Lägg gelatinbladen i kallt vatten ca 5 min. Låt matjessillen rinna av och hacka den. Skala och finhacka löken. Blanda sill, lök och örter.

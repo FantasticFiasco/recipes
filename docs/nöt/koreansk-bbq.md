@@ -8,7 +8,7 @@ tags:
 
 ![image](/img/nöt/koreansk-bbq.jpg)
 
-Ingredienser
+## Ingredienser
 
 - 800 g entrecôte, hängmörad, i tjocka skivor
 - 1 dl koreansk soja (eller japansk)
@@ -52,7 +52,7 @@ Till servering
 - Chilifrukt, skivad
 - Vitlök, skivad
 
-Gör så här
+## Gör så här
 
 1. Blanda alla ingredienser till marinaden. Lägg i köttet och låt stå i minst 30 minuter, gärna över natten.
 2. Ssamsås - Blanda ihop alla ingredienserna till såsen och lägg i en liten skål.

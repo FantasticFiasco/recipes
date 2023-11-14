@@ -8,7 +8,7 @@ tags:
 
 ca 10 stycken
 
-Ingredienser
+## Ingredienser
 
 - 4 dl vetemjöl
 - 2 tsk bakpulver
@@ -19,7 +19,7 @@ Ingredienser
 - 2 tsk socker
 - 1 tsk vaniljsocker
 
-GÖR SÅ HÄR
+## Gör så här
 
 1. Smält smöret och låt svalna något.
 2. Blanda vetemjöl i en bunke.

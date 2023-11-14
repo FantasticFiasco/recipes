@@ -9,7 +9,7 @@ tags:
 
 Värmande och vacker fisksoppa med saffran, lax och torsk. På bara en kvart har du en lättlagad och god soppa!
 
-Ingredienser
+## Ingredienser
 
 - 400 g torskfilé, el sej. Köp havsvänlig fisk
 - 300 g laxfilé, Köp havsvänlig fisk
@@ -27,6 +27,8 @@ Ingredienser
 - 1 krm salt
 - 1 krm svartpeppar
 - 150 g skalade räkor
+
+## Gör så här
 
 1. Skär fisken i 3 cm stora kuber.
 2. Skala och riv vitlök. Skölj och strimla purjolök.

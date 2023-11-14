@@ -8,7 +8,7 @@ tags:
 
 ![image](/img/fisk/kokt-torsk-med-ägg-och-persiljesås.jpg)
 
-Ingredienser
+## Ingredienser
 
 - 2 dl fiskbuljong
 - 1/2 dl matlagningsgrädde
@@ -22,7 +22,7 @@ Ingredienser
 - 1 vitpeppar
 - 1 dillkvist
 
-Gör så här
+## Gör så här
 
 1. Fräs smör och vetemjöl i en liten kastrull.
 2. Späd med fiskbuljong, mjölk och grädde och låt såsen puttra i ca 5 minuter så att mjölsmaken försvinner.

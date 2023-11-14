@@ -9,6 +9,8 @@ tags:
 
 ![image](/img/sås/gravlaxsås.jpg)
 
+## Ingredienser
+
 Det här behöver man till ca 4 dl.
 
 - 3/4 dl svensk senap
@@ -19,7 +21,7 @@ Det här behöver man till ca 4 dl.
 - 2 dl matolja
 - 50 g dill
 
-Så här gör man.
+## Gör så här
 
 1. Blanda senap, salt, socker, vitpeppar och vinäger i en skål.
 2. Vispa sedan droppvis ner den rumstempererade oljan

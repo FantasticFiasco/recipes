@@ -6,6 +6,8 @@ tags:
 
 ![image](/img/fisk/torskrygg-med-rökt-majonäs-primörer-och-bacontarteletter.jpg)
 
+## Ingredienser
+
 Kål- och bacontarteletter:
 
 - 250 g vitkål
@@ -42,7 +44,7 @@ Torskrygg:
 - 1 msk olja
 - Salt, peppar, persillade
 
-Gör så här
+## Gör så här
 
 1. Strimla vitkål, fänkål och lök. Stek i smör till det mjuknat. Avsluta med att slå på en skvätt äppelcidervinäger som får fräsa bort. Stek baconet och strimla sedan upp det. Klä tartelettformarna med smördeg och klicka i kål och bacon. Vispa ihop ägg och grädde med kryddor. Slå stanningen över tarteletterna och grädda i 200°C i cirka 30-35 minuter.
 2. Vispa ihop äggen med dijonsenap och vitvinsvinäger med en elvisp. Droppa i rapsoljan i en tunn stråle och vispa hela tiden. Vispa till oljan och äggen bundit sig till en majonäs. Smaka av med kryddor. Sätt ett laget plastfolie över bunken. Tänd rökspånet i rökpistolen och sätt in slangen i bunken. Fyll skålen med rök och stäng sedan till. Låt stå ca 15 minuter.

@@ -7,7 +7,7 @@ tags:
 
 ![image](/img/fisk/tareqs-gräddiga-fisksoppa.jpg)
 
-Ingredienser
+## Ingredienser
 
 - 200 g torskfilé
 - 200 g laxfilé
@@ -27,7 +27,7 @@ Till servering
 
 - Aioli
 
-Gör så här
+## Gör så här
 
 1. Skär torsk och lax i stora bitar. Dela och skölj purjolöken under rinnande kallt vatten. Strimla den fint. Skala och finhacka vitlöken. Skala morotterna och skär dem i 1x1 cm stora tärningar. Dela och skiva fänkålen tunt (lägg undan lite till garnering). Plocka dillvipporna och spara dem. Strimla dillstjälkarna. Skala potatisen och skär i cirka 2×2 cm stora tärningar.
 2. Stek alla grönsaker på medelvärme i olja i en gryta utan att det tar färg, i cirka 5 minuter. Tillsätt saffran mot slutet.

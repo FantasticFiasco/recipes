@@ -8,7 +8,7 @@ tags:
 
 ![image](/img/bröd/fröknäcke.jpg)
 
-Ingredienser
+## Ingredienser
 
 - 1 dl sesamfrö
 - 1 dl pumpakärnor
@@ -19,8 +19,7 @@ Ingredienser
 - 1/2 dl rapsolja
 - 2 dl kokande vatten
 
-
-Gör så här
+## Gör så här
 
 1. Sätt ugnen på 150°C.
 2. Lägg ett bakplåtspapper på en plåt, ca 30x40 cm (för 1 sats).

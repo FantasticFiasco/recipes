@@ -7,6 +7,8 @@ tags:
 
 ![image](/img/bröd/filmjölksbröd.jpg)
 
+## Ingredienser
+
 - 2 dl fiberhavregryn
 - 5 dl vetemjöl
 - 1 dl krossade linfrön
@@ -18,7 +20,7 @@ tags:
 - 0.5 dl flytande honung (kan skippas mot mer lingonsylt)
 - 0.5 dl lingonsylt
 
-Gör så här:
+## Gör så här
 
 1. Sätt ugnen på 200°.
 2. Blanda alla torra ingredienser i en bunke. Rör i filmjölk, honung och sylt.

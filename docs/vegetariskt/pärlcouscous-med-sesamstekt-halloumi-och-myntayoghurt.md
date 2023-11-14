@@ -8,7 +8,7 @@ tags:
 
 ![image](/img/vegetariskt/pärlcouscous-med-sesamstekt-halloumi-och-myntayoghurt.jpg)
 
-Ingredienser
+## Ingredienser
 
 - 2 dl pärlcouscous eller matvete
 - 1 grönsaksbuljongtärning
@@ -39,7 +39,7 @@ Myntayoghurt
 - 1/2 dl strimlad mynta
 - 1/2 tsk salt
 
-Gör så här
+## Gör så här
 
 1. Myntayoghurt - Rör ihop alla ingredienser. Smaka av med salt.
 2. Koka couscousen enligt anvisning på förpackningen tillsammans med buljongtärningen. Häll av och blanda med olivoljan.

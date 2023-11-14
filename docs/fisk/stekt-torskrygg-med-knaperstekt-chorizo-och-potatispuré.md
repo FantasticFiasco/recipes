@@ -9,7 +9,7 @@ tags:
 
 Recept på timjanstekt torskrygg med knaperstekt chorizo och blomkåls- och potatispuré. Ös smöret över torsken när du steker, det ger den extra god smak. Den kryddiga chorizon ger ett härligt krisp till rätten. Spara oljan från stekning, den ger smak och det ser även snyggt ut på tallriken.
 
-Ingredienser
+## Ingredienser
 
 - 600 g torskrygg - i bit
 - 1 l vatten
@@ -43,7 +43,7 @@ Garnering
 
 - 0,5 kruka timjan
 
-Gör så här
+## Gör så här
 
 1. Blanda kallt vatten och salt till rimlagen. Skär torsken i fyra bitar och lägg dem i lagen. Ställ fisken i kylen och låt rimma ca 20 min. Fisken får då en jämnare sälta och fastare konsistens. Sätt ugnen på 125°.
 2. Puré: Ansa, skär och bryt blomkålen i bitar. Skala och skär potatisen i bitar. Koka blomkål och potatis mjuk i lättsaltat vatten. Häll av vattnet.  Stöt blomkål och potatis med elvispen. Värm mjölk och smör och blanda ner det i moset under vispning.  Vispa till ett luftigt mos. Krydda med salt och peppar.

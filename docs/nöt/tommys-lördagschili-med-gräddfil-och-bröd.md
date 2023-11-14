@@ -8,7 +8,7 @@ tags:
 
 ![image](/img/nöt/tommys-lördagschili-med-gräddfil-och-bröd.jpg)
 
-Ingredienser
+## Ingredienser
 
 Chili
 
@@ -36,7 +36,7 @@ Tillbehör
 - 3 dl gräddfil
 - 1/2 st gurka, i stavar
 
-Gör så här
+## Gör så här
 
 Chili
 

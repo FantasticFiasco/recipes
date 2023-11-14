@@ -9,7 +9,7 @@ tags:
 
 ![image](/img/nöt/högrevsgryta.jpg)
 
-Ingredienser
+## Ingredienser
 
 - 1 kg högrev, grovt skuren
 - 1 gul lök, grovt hackad
@@ -53,7 +53,7 @@ Topping
 - 1 kruka basilika
 - 1 dl parmesanost
 
-Gör så här
+## Gör så här
 
 1. Bryn köttet väl, salt och peppra.
 2. Bryn grönsakerna.

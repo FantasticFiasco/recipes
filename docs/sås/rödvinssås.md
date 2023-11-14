@@ -9,7 +9,7 @@ tags:
 
 ![image](/img/sås/rödvinssås.jpg)
 
-Ingredienser
+## Ingredienser
 
 - 1 gul lök
 - 2 vitlöksklyftor
@@ -21,7 +21,7 @@ Ingredienser
 - 3 dl vatten
 - 0,5 dl kalvfond
 
-Så här gör man.
+## Gör så här
 
 1. Skala och finhacka lök, ­vitlök, morötter och palsternacka.
 2. Fräs lök, morötter och palsternacka i 1 msk smör.

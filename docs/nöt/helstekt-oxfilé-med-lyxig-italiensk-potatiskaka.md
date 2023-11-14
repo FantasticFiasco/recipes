@@ -8,7 +8,7 @@ tags:
 
 Lyxig oxfilé i gott sällskap av kantareller, krämig savoykål och en mjäll potatiskaka. Perfekt till festligare tillfällen som nyår! Tips! Börja med potatiskakan, den ska göras minst 3 timmar i förväg för att man ska kunna skära den i skivor.
 
-Ingredienser
+## Ingredienser
 
 Potatiskaka (räcker till 8 portioner)
 
@@ -68,7 +68,7 @@ Till garnering & servering
 - Flingsalt
 - Svartpeppar, nymalen
 
-Gör så här
+## Gör så här
 
 Italiensk potatiskaka:
 

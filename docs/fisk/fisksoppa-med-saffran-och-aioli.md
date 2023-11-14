@@ -9,7 +9,7 @@ tags:
 
 Recept på en underbar, matig fisksoppa med torsk, lax, räkor, fänkål och saffran. Koka en egen fond på räkskalen för att ge soppan mesta möjliga smak.
 
-Ingredienser
+## Ingredienser
 
 - 500 g räkor med skal
 - 1 gul lök
@@ -36,7 +36,7 @@ Aioli
 - 2 vitlöksklyftor
 - 0,75 tsk salt
 
-Gör så här
+## Gör så här
 
 1. Skala räkorna och spara skalen. Ställ räkorna i kylen.
 2. Skala och finhacka lök och vitlök. Fräs löken i olja tillsammans med räkskal och saffran. Häll på vinet och koka ca 5 min. Tillsätt vattnet. Låt koka under lock ca 15 min.

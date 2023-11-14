@@ -9,7 +9,7 @@ tags:
 
 ![image](/img/sås/klassisk-rödvinssås.jpg)
 
-Ingredienser
+## Ingredienser
 
 - 3 dl rödvin
 - 3 scharlottenlökar
@@ -27,7 +27,7 @@ Ingredienser
 - 1 msk ev, maizena att reda av med
 - 25 gram rumsvarmt smör
 
-Så här gör man.
+## Gör så här
 
 1. Skala och finhacka lök, vitlök och moroten. Fräs i en kastrull på svag värme i 5 min utan att det tar färg.
 2. Tillsätt vin, vatten och övriga ingredienser och låt koka ner till hälften utan lock. Smaka av med salt och peppar.

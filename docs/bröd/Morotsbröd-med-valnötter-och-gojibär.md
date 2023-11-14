@@ -7,7 +7,7 @@ tags:
 
 ![image](/img/bröd/morotsbröd-med-valnötter-och-gojibär.jpg)
 
-Ingredienser
+## Ingredienser
 
 - 5 dl havregryn
 - 2 dl dinkelmjöl
@@ -26,7 +26,7 @@ Att strö över innan  gräddning:
 - Svarta sesamfrön
 - Hackade valnötter
 
-Gör rotfruktsbrödet så här:
+## Gör så här
 
 1. Värm ugnen till 175 grader.
 2. Mixa havregrynen i en matberedare till en fint mjöl, blanda i dinkelmjöl, salt och bikarbonat. Blanda.

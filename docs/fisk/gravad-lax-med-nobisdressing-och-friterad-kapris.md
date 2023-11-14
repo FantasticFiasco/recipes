@@ -9,7 +9,7 @@ tags:
 
 Gravad lax som toppas med en krämig nobisdressing och friterad kapris. Perfekt till påsk, på julbordet eller som en förrätt.
 
-Ingredienser
+## Ingredienser
 
 - 600 g lax med skinn (mittbiten)
 - 1 tsk grov mortlad vitpeppar
@@ -29,7 +29,7 @@ Nobisdressing
 - 2 msk finhackad gräslök
 - 3 msk kallt vatten
 
-Gör så här
+## Gör så här
 
 1. Skär laxen i två bitar. Ta bort alla småben. Torka filéerna med hushållspapper.
 2. Blanda vitpeppar, salt och strösocker. Gnid in fisken med cirka 1/3 av blandningen.

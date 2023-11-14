@@ -8,7 +8,7 @@ tags:
 
 ![image](/img/nöt/cottage-pie.jpg)
 
-Ingredienser
+## Ingredienser
 
 - 1 gul lök
 - 1 vitlöksklyfta
@@ -25,7 +25,7 @@ Ingredienser
 - 2 msk hackad persilja
 - 3 morötter
 
-Gör så här
+## Gör så här
 
 1. Sätt ugnen på 225°C.
 2. Skala och finhacka lök och vitlök. Skala och tärna palsternackan.

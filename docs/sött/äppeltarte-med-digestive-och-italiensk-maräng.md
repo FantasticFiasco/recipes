@@ -10,6 +10,8 @@ tags:
 
 14 bitar
 
+## Ingredienser
+
 Digestivebotten
 
 - 200 g digestivekex (ca 14 st)
@@ -40,7 +42,7 @@ Italiensk maräng
 - 0,5 dl vatten
 - 90 g äggvita (ca 3 st)
 
-Gör så här
+## Gör så här
 
 1. Digestivebotten: Sätt ugnen på 175 grader varmluft. Krossa kexen eller mixa dem till fina smulor. Blanda ihop smulorna med smör, strösocker och salt.
 2. Tryck ut smulorna i en form, ca 24 cm i diameter. Grädda bottnen mitt i ugnen i 10 min. Låt den svalna.

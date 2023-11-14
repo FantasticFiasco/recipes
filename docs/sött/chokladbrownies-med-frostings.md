@@ -7,6 +7,8 @@ tags:
 
 ![image](/img/sött/chokladbrownies-med-frostings.jpg)
 
+## Ingredienser
+
 12 stora bitar
 
 - 150 g smör, rumsvarmt
@@ -19,13 +21,6 @@ tags:
 - 3 ägg
 - 1,25 dl vetemjöl
 
-Gör så här:
-
-1. Börja med att sätta ugnen på 200°C och klä en form 20x20 cm med bakplåtspapper
-2. Vispa smör, strösocker, sirap och vaniljsocker fluffigt med elvisp
-3. Rör ner kakao, choklad, salt och sedan äggen, ett i taget
-4. Häll smeten i formen och grädda kakan mitt i ugnen i ca 20 min. Tag ut och låt svalna helt.
-
 Frosting
 
 - 100 g mörk choklad
@@ -35,9 +30,16 @@ Frosting
 - 2 tsk vaniljsocker
 - 2 msk kakao
 
-Sen hade jag choklad över så det valde jag att hacka, blanda i en del i frsotingen och en del ovanpå
+Sen hade jag choklad över så det valde jag att hacka, blanda i en del i frostingen och en del ovanpå
 
-Gör så här
+## Gör så här
+
+1. Börja med att sätta ugnen på 200°C och klä en form 20x20 cm med bakplåtspapper
+2. Vispa smör, strösocker, sirap och vaniljsocker fluffigt med elvisp
+3. Rör ner kakao, choklad, salt och sedan äggen, ett i taget
+4. Häll smeten i formen och grädda kakan mitt i ugnen i ca 20 min. Tag ut och låt svalna helt.
+
+Frosting
 
 1. Smält chokladen och ställ åt sidan.
 2. Vispa ihop smör och florsocker, tillsätt sedan färskost, vaniljsocker och

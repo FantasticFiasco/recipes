@@ -7,7 +7,7 @@ tags:
 
 ![image](/img/fisk/torsk-med-risotto-och-basilikabuljong.jpg)
 
-Ingredienser
+## Ingredienser
 
 Torsk
 
@@ -41,7 +41,7 @@ Garnering
 - rucolasallad
 - Svartpeppar, nymald
 
-Gör så här
+## Gör så här
 
 1. Basilikabuljongen
    1. Lägg basilikablad, vitlök och smör i en mixer och häll på het buljong. Kör ca 30 sek tills buljongen fått en fin grön färg. Ställ åt sidan.

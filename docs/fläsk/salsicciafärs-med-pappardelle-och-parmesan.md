@@ -9,7 +9,7 @@ tags:
 
 ![image](/img/fläsk/salsicciafärs-med-pappardelle-och-parmesan.jpg)
 
-Ingredienser
+## Ingredienser
 
 Salsicciafärs
 
@@ -32,7 +32,7 @@ Tillbehör
 - 50 g parmesanost
 - 1/2 kruka färsk basilika
 
-Gör så här
+## Gör så här
 
 1. Koka upp saltat vatten till pastan.
 2. Skala och finhacka lök och vitlök. Skölj och finhacka chilipeppar och basilika.

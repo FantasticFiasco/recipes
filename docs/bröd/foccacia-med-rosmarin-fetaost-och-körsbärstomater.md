@@ -11,7 +11,7 @@ tags:
 
 Italienskt matbröd som bakas i långpannor och skärs i rutor. Denna är smaksatt med fetaost, tomater och rosmarin.
 
-Ingredienser
+## Ingredienser
 
 - 25 g jäst, 1/2 paket färsk jäst
 - 3 dl vatten, fingervarmt
@@ -24,6 +24,8 @@ Ingredienser
 - Körsbärstomater
 - Fetaost, tärnad
 - Rosmarin
+
+## Gör så här
 
 1. Vispa ut jästen med vatten, olivolja, honung och flingsalt i en degbunke.
 2. Tillsätt lite vetemjöl åt gången och arbeta samman till en deg och knåda den under ett par minuter.
