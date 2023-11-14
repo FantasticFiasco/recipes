@@ -35,8 +35,6 @@ const config: Config = {
         docs: {
           routeBasePath: '/',
           sidebarPath: './sidebars.ts',
-          editUrl:
-            'https://github.com/FantasticFiasco/recipes/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: false,
         theme: {
