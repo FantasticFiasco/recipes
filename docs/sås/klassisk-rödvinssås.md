@@ -1,11 +1,12 @@
 ---
-title: Klassisk rödvinssås
 tags:
     - sverige
     - lunch
     - middag
     - kött
 ---
+# Klassisk rödvinssås
+
 ![image](/img/sås/klassisk-rödvinssås.jpg)
 
 Ingredienser

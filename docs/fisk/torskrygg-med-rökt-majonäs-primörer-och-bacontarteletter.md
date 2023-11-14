@@ -1,8 +1,9 @@
 ---
-title: Torskrygg med rökt majonäs, primörer och bacontarteletter
 tags:
     - middag
 ---
+# Torskrygg med rökt majonäs, primörer och bacontarteletter
+
 ![image](/img/fisk/torskrygg-med-rökt-majonäs-primörer-och-bacontarteletter.jpg)
 
 Kål- och bacontarteletter:

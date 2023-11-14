@@ -1,10 +1,11 @@
 ---
-title: Tommys lördagschili med gräddfil och bröd
 tags:
     - mexico
     - chili
     - middag
 ---
+# Tommys lördagschili med gräddfil och bröd
+
 ![image](/img/nöt/tommys-lördagschili-med-gräddfil-och-bröd.jpg)
 
 Ingredienser

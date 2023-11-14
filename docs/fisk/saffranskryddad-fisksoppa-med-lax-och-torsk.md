@@ -1,9 +1,10 @@
 ---
-title: Saffranskryddad fisksoppa med lax och torsk
 tags:
     - lunch
     - middag
 ---
+# Saffranskryddad fisksoppa med lax och torsk
+
 ![image](/img/fisk/saffranskryddad-fisksoppa-med-lax-och-torsk.jpg)
 
 Värmande och vacker fisksoppa med saffran, lax och torsk. På bara en kvart har du en lättlagad och god soppa!

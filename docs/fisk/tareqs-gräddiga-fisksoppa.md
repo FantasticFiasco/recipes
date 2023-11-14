@@ -1,9 +1,10 @@
 ---
-title: Tareqs gräddiga fisksoppa
 tags:
     - lunch
     - middag
 ---
+# Tareqs gräddiga fisksoppa
+
 ![image](/img/fisk/tareqs-gräddiga-fisksoppa.jpg)
 
 Ingredienser

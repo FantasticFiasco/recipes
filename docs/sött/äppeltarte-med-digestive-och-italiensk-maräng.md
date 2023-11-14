@@ -1,10 +1,11 @@
 ---
-title: Äppeltarte med digestive och italiensk maräng
 tags:
     - sverige
     - italien
     - efterrätt
 ---
+# Äppeltarte med digestive och italiensk maräng
+
 ![image](/img/sött/äppeltarte-med-digestive-och-italiensk-maräng.jpg)
 
 14 bitar

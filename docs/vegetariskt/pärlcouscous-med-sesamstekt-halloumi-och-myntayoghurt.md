@@ -1,10 +1,11 @@
 ---
-title: Pärlcouscous med sesamstekt halloumi och myntayoghurt
 tags:
     - medelhavet
     - lunch
     - middag
 ---
+# Pärlcouscous med sesamstekt halloumi och myntayoghurt
+
 ![image](/img/vegetariskt/pärlcouscous-med-sesamstekt-halloumi-och-myntayoghurt.jpg)
 
 Ingredienser

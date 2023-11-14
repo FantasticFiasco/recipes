@@ -1,10 +1,11 @@
 ---
-title: Nudlar med kokosmjölk och grönsaker
 tags:
     - asien
     - lunch
     - middag
 ---
+# Nudlar med kokosmjölk och grönsaker
+
 ![image](/img/vegetariskt/nudlar-med-kokosmjölk-och-grönsaker.jpg)
 
 Snabb gryta med grön currypasta, kokosmjölk, broccoli, purjolök och champinjoner. Enkelt recept på vardagsmiddag!

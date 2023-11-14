@@ -1,11 +1,12 @@
 ---
-title: Gravlaxsås
 tags:
     - sverige
     - lunch
     - middag
     - lax
 ---
+# Gravlaxsås
+
 ![image](/img/sås/gravlaxsås.jpg)
 
 Det här behöver man till ca 4 dl.

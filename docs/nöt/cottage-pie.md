@@ -1,10 +1,11 @@
 ---
-title: Cottage pie
 tags:
     - england
     - lunch
     - middag
 ---
+# Cottage pie
+
 ![image](/img/nöt/cottage-pie.jpg)
 
 Ingredienser

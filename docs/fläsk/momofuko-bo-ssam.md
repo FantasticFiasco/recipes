@@ -1,9 +1,10 @@
 ---
-title: Momofuko Bo Ssam
 tags:
     - sydkorea
     - middag
 ---
+# Momofuko Bo Ssam
+
 ![image](/img/fläsk/momofuko-bo-ssam.jpg)
 
 Stek

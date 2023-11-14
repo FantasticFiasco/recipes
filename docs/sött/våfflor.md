@@ -1,8 +1,9 @@
 ---
-title: Våfflor
 tags:
     - efterrätt
 ---
+# Våfflor
+
 ![image](/img/sött/våfflor.jpg)
 
 ca 10 stycken

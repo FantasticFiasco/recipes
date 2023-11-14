@@ -1,10 +1,11 @@
 ---
-title: Dansk fläskstek med rödkål
 tags:
     - danmark
     - lunch
     - middag
 ---
+# Dansk fläskstek med rödkål
+
 ![image](/img/fläsk/dansk-fläskstek-med-rödkål.jpg)
 
 Ingredienser

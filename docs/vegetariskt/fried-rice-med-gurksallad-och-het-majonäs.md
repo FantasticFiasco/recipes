@@ -1,10 +1,11 @@
 ---
-title: Fried rice med gurksallad och het majonäs
 tags:
     - asien
     - lunch
     - middag
 ---
+# Fried rice med gurksallad och het majonäs
+
 ![image](/img/vegetariskt/fried-rice-med-gurksallad-och-het-majonäs.jpg)
 
 Fried rice är en perfekt vardagsrätt när man har överblivet ris och här är vårt recept! Stek riset med grönsaker och ingefära och servera med gurksallad och srirachamajo.

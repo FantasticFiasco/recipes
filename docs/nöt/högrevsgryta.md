@@ -1,11 +1,12 @@
 ---
-title: Högrevsgryta
 tags:
     - frankrike
     - italien
     - lunch
     - middag
 ---
+# Högrevsgryta
+
 ![image](/img/nöt/högrevsgryta.jpg)
 
 Ingredienser

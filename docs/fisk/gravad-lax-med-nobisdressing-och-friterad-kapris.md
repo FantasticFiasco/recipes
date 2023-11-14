@@ -1,9 +1,10 @@
 ---
-title: Gravad lax med nobisdressing och friterad kapris
 tags:
     - sverige
     - förrätt
 ---
+# Gravad lax med nobisdressing och friterad kapris
+
 ![image](/img/fisk/gravad-lax-med-nobisdressing-och-friterad-kapris.jpg)
 
 Gravad lax som toppas med en krämig nobisdressing och friterad kapris. Perfekt till påsk, på julbordet eller som en förrätt.

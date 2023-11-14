@@ -1,10 +1,11 @@
 ---
-title: Couscous med kyckling och salami
 tags:
     - medelhavet
     - lunch
     - middag
 ---
+# Couscous med kyckling och salami
+
 ![image](/img/kyckling/couscous-med-kyckling-och-salami.jpg)
 
 Ingredienser
