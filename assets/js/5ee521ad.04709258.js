@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrecept=self.webpackChunkrecept||[]).push([[1584],{9792:e=>{e.exports=JSON.parse('{"label":"p\xe5sk","permalink":"/recipes/tags/pask","allTagsPath":"/recipes/tags","count":1,"items":[{"id":"fisk/matjessillt\xe5rta","title":"Matjessillt\xe5rta","description":"image","permalink":"/recipes/fisk/matjessillt\xe5rta"}],"unlisted":false}')}}]);

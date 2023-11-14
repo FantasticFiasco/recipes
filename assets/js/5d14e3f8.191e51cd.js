@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrecept=self.webpackChunkrecept||[]).push([[7607],{736:e=>{e.exports=JSON.parse('{"label":"midda","permalink":"/recipes/tags/midda","allTagsPath":"/recipes/tags","count":1,"items":[{"id":"fl\xe4sk/pulled-pork","title":"Pulled pork","description":"image","permalink":"/recipes/fl\xe4sk/pulled-pork"}],"unlisted":false}')}}]);
