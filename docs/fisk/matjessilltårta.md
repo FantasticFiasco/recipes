@@ -7,7 +7,7 @@ tags:
 ---
 # Matjessilltårta
 
-![image](/img/fisk/matjessilltårta.jpg)
+![image](./matjessilltårta.jpg)
 
 10–12 personer
 

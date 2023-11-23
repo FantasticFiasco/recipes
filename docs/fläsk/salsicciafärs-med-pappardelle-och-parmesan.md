@@ -7,7 +7,7 @@ tags:
 ---
 # Salsicciafärs med pappardelle och parmesan
 
-![image](/img/fläsk/salsicciafärs-med-pappardelle-och-parmesan.jpg)
+![image](./salsicciafärs-med-pappardelle-och-parmesan.jpg)
 
 ## Ingredienser
 

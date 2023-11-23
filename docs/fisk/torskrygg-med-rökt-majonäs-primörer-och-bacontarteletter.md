@@ -4,7 +4,7 @@ tags:
 ---
 # Torskrygg med rökt majonäs, primörer och bacontarteletter
 
-![image](/img/fisk/torskrygg-med-rökt-majonäs-primörer-och-bacontarteletter.jpg)
+![image](./torskrygg-med-rökt-majonäs-primörer-och-bacontarteletter.jpg)
 
 ## Ingredienser
 

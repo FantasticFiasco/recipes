@@ -4,7 +4,7 @@ tags:
 ---
 # Helstekt kalkon
 
-![image](/img/kyckling/helstekt-kalkon.jpg)
+![image](./helstekt-kalkon.jpg)
 
 ## Ingredienser
 

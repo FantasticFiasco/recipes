@@ -6,7 +6,7 @@ tags:
 ---
 # Tommys lördagschili med gräddfil och bröd
 
-![image](/img/nöt/tommys-lördagschili-med-gräddfil-och-bröd.jpg)
+![image](./tommys-lördagschili-med-gräddfil-och-bröd.jpg)
 
 ## Ingredienser
 

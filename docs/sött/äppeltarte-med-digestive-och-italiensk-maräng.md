@@ -6,7 +6,7 @@ tags:
 ---
 # Äppeltarte med digestive och italiensk maräng
 
-![image](/img/sött/äppeltarte-med-digestive-och-italiensk-maräng.jpg)
+![image](./äppeltarte-med-digestive-och-italiensk-maräng.jpg)
 
 14 bitar
 

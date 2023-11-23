@@ -4,7 +4,7 @@ tags:
 ---
 # Våfflor
 
-![image](/img/sött/våfflor.jpg)
+![image](./våfflor.jpg)
 
 ca 10 stycken
 

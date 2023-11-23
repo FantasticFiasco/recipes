@@ -6,7 +6,7 @@ tags:
 ---
 # Pulled pork
 
-![image](/img/fläsk/pulled-pork.jpg)
+![image](./pulled-pork.jpg)
 
 ## Ingredienser
 

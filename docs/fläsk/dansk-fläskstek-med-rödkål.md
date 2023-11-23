@@ -6,7 +6,7 @@ tags:
 ---
 # Dansk fläskstek med rödkål
 
-![image](/img/fläsk/dansk-fläskstek-med-rödkål.jpg)
+![image](./dansk-fläskstek-med-rödkål.jpg)
 
 ## Ingredienser
 

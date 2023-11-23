@@ -6,7 +6,7 @@ tags:
 ---
 # Kokt torsk med ägg och persiljesås
 
-![image](/img/fisk/kokt-torsk-med-ägg-och-persiljesås.jpg)
+![image](./kokt-torsk-med-ägg-och-persiljesås.jpg)
 
 ## Ingredienser
 

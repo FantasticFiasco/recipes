@@ -5,7 +5,7 @@ tags:
 ---
 # Morotsbröd med valnötter och gojibär
 
-![image](/img/bröd/morotsbröd-med-valnötter-och-gojibär.jpg)
+![image](./morotsbröd-med-valnötter-och-gojibär.jpg)
 
 ## Ingredienser
 

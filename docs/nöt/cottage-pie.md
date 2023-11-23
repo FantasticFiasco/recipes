@@ -6,7 +6,7 @@ tags:
 ---
 # Cottage pie
 
-![image](/img/nöt/cottage-pie.jpg)
+![image](./cottage-pie.jpg)
 
 ## Ingredienser
 

@@ -5,7 +5,7 @@ tags:
 ---
 # Torsk med risotto och basilikabuljong
 
-![image](/img/fisk/torsk-med-risotto-och-basilikabuljong.jpg)
+![image](./torsk-med-risotto-och-basilikabuljong.jpg)
 
 ## Ingredienser
 

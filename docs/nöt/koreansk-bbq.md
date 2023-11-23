@@ -6,7 +6,7 @@ tags:
 ---
 # Koreansk BBQ
 
-![image](/img/nöt/koreansk-bbq.jpg)
+![image](./koreansk-bbq.jpg)
 
 ## Ingredienser
 

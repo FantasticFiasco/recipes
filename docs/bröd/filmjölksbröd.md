@@ -5,7 +5,7 @@ tags:
 ---
 # Filmjölksbröd
 
-![image](/img/bröd/filmjölksbröd.jpg)
+![image](./filmjölksbröd.jpg)
 
 ## Ingredienser
 

@@ -7,7 +7,7 @@ tags:
 ---
 # Gravlaxsås
 
-![image](/img/sås/gravlaxsås.jpg)
+![image](./gravlaxsås.jpg)
 
 ## Ingredienser
 

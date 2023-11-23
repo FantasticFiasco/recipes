@@ -5,7 +5,7 @@ tags:
 ---
 # Tareqs gräddiga fisksoppa
 
-![image](/img/fisk/tareqs-gräddiga-fisksoppa.jpg)
+![image](./tareqs-gräddiga-fisksoppa.jpg)
 
 ## Ingredienser
 

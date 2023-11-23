@@ -5,7 +5,7 @@ tags:
 ---
 # Momofuko Bo Ssam
 
-![image](/img/fläsk/momofuko-bo-ssam.jpg)
+![image](./momofuko-bo-ssam.jpg)
 
 ## Ingredienser
 

@@ -7,7 +7,7 @@ tags:
 ---
 # Högrevsgryta
 
-![image](/img/nöt/högrevsgryta.jpg)
+![image](./högrevsgryta.jpg)
 
 ## Ingredienser
 

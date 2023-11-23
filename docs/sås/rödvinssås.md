@@ -7,7 +7,7 @@ tags:
 ---
 # Rödvinssås
 
-![image](/img/sås/rödvinssås.jpg)
+![image](./rödvinssås.jpg)
 
 ## Ingredienser
 

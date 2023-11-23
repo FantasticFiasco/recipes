@@ -7,7 +7,7 @@ tags:
 ---
 # Pommes frites i ugn
 
-![image](/img/vegetariskt/pommes-frites-i-ugn.jpg)
+![image](./pommes-frites-i-ugn.jpg)
 
 ## Ingredienser
 

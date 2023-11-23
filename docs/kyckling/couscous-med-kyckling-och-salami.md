@@ -6,7 +6,7 @@ tags:
 ---
 # Couscous med kyckling och salami
 
-![image](/img/kyckling/couscous-med-kyckling-och-salami.jpg)
+![image](./couscous-med-kyckling-och-salami.jpg)
 
 ## Ingredienser
 

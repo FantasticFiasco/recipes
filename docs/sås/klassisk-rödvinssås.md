@@ -7,7 +7,7 @@ tags:
 ---
 # Klassisk rödvinssås
 
-![image](/img/sås/klassisk-rödvinssås.jpg)
+![image](./klassisk-rödvinssås.jpg)
 
 ## Ingredienser
 

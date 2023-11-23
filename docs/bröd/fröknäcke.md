@@ -6,7 +6,7 @@ tags:
 ---
 # Fröknäcke
 
-![image](/img/bröd/fröknäcke.jpg)
+![image](./fröknäcke.jpg)
 
 ## Ingredienser
 

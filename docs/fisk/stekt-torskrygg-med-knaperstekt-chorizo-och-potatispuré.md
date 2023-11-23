@@ -5,7 +5,7 @@ tags:
 ---
 # Stekt torskrygg med knaperstekt chorizo och potatispuré
 
-![image](/img/fisk/stekt-torskrygg-med-knaperstekt-chorizo-och-potatispuré.jpg)
+![image](./stekt-torskrygg-med-knaperstekt-chorizo-och-potatispuré.jpg)
 
 Recept på timjanstekt torskrygg med knaperstekt chorizo och blomkåls- och potatispuré. Ös smöret över torsken när du steker, det ger den extra god smak. Den kryddiga chorizon ger ett härligt krisp till rätten. Spara oljan från stekning, den ger smak och det ser även snyggt ut på tallriken.
 

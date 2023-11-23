@@ -5,7 +5,7 @@ tags:
 ---
 # Chokladbrownies med frosting
 
-![image](/img/sött/chokladbrownies-med-frostings.jpg)
+![image](./chokladbrownies-med-frostings.jpg)
 
 ## Ingredienser
 
