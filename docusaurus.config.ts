@@ -53,6 +53,11 @@ const config: Config = {
       },
       items: [
         {
+          to: '/tags',
+          label: 'Taggar',
+          position: 'left',
+        },
+        {
           href: 'https://github.com/FantasticFiasco/recipes',
           label: 'GitHub',
           position: 'right',
