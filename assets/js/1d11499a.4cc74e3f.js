@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkrecept=self.webpackChunkrecept||[]).push([[1859],{5759:s=>{s.exports=JSON.parse('{"label":"lax","permalink":"/recipes/tags/lax","allTagsPath":"/recipes/tags","count":1,"items":[{"id":"s\xe5s/gravlaxs\xe5s","title":"Gravlaxs\xe5s","description":"image","permalink":"/recipes/s\xe5s/gravlaxs\xe5s"}],"unlisted":false}')}}]);

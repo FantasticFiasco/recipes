@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkrecept=self.webpackChunkrecept||[]).push([[7903],{1383:e=>{e.exports=JSON.parse('{"label":"fika","permalink":"/recipes/tags/fika","allTagsPath":"/recipes/tags","count":1,"items":[{"id":"br\xf6d/fr\xf6kn\xe4cke","title":"Fr\xf6kn\xe4cke","description":"image","permalink":"/recipes/br\xf6d/fr\xf6kn\xe4cke"}],"unlisted":false}')}}]);
