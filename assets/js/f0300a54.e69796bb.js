@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrecept=self.webpackChunkrecept||[]).push([[9326],{2288:e=>{e.exports=JSON.parse('{"tag":{"label":"n\xf6t","permalink":"/recipes/tags/not","allTagsPath":"/recipes/tags","count":1,"items":[{"id":"s\xe5s/chimichurri","title":"Chimichurri","description":"image","permalink":"/recipes/s\xe5s/chimichurri"}],"unlisted":false}}')}}]);
