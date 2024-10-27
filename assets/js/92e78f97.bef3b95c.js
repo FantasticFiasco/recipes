@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkrecept=self.webpackChunkrecept||[]).push([[2081],{9981:e=>{e.exports=JSON.parse('{"tag":{"label":"england","permalink":"/recipes/tags/england","allTagsPath":"/recipes/tags","count":1,"items":[{"id":"n\xf6t/cottage-pie","title":"Cottage pie","description":"image","permalink":"/recipes/n\xf6t/cottage-pie"}],"unlisted":false}}')}}]);
