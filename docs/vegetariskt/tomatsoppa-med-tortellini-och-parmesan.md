@@ -22,6 +22,12 @@ tags:
 - 1/2 dl hackad basilika
 - salt och svartpeppar
 
+Till servering
+
+- 250 g färsk tortellini
+- 1 dl grovriven parmesanost
+- färsk basilika
+
 ## Gör så här
 
 1. Stek lök, vitlök och chili i olja tills löken är mjuk. Tillsätt tomater, vatten, oregano, vinäger och honung. Låt koka ca 20 min under lock. Mosa sönder tomaterna, vänd ner basilikan och smaka av med salt och peppar.
