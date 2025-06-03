@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkrecept=self.webpackChunkrecept||[]).push([[2589],{2589:(e,c,p)=>{p.r(c)}}]);
