@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkrecept=self.webpackChunkrecept||[]).push([[6339],{8401:e=>{e.exports=JSON.parse('{"tag":{"label":"grekland","permalink":"/recipes/tags/grekland","allTagsPath":"/recipes/tags","count":1,"items":[{"id":"n\xf6t/stifado","title":"Stifado","description":"image","permalink":"/recipes/n\xf6t/stifado"}],"unlisted":false}}')}}]);
