@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrecept=self.webpackChunkrecept||[]).push([[4359],{7395:e=>{e.exports=JSON.parse('{"tag":{"label":"france","permalink":"/recipes/tags/france","allTagsPath":"/recipes/tags","count":1,"items":[{"id":"n\xf6t/boeuf-bourguignon","title":"Boeuf bourguignon","description":"image","permalink":"/recipes/n\xf6t/boeuf-bourguignon"}],"unlisted":false}}')}}]);
