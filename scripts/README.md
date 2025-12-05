@@ -1,4 +1,4 @@
-# Recipe Importer
+# Recipe importer
 
 A Python script to import recipes from online sources and convert them to the Docusaurus recipe site's Markdown format.
 
@@ -59,7 +59,7 @@ python import_recipes.py --file urls.txt
 python import_recipes.py --auto-category https://www.example.com/recipe
 ```
 
-## How It Works
+## How it works
 
 1. **Scrape**: Extracts recipe data (title, ingredients, instructions, image) from the URL
 2. **Detect Category**: Analyzes content to determine which folder to save to (fisk, nöt, etc.)
@@ -68,7 +68,7 @@ python import_recipes.py --auto-category https://www.example.com/recipe
 5. **Format Markdown**: Creates a properly formatted `.md` file with frontmatter
 6. **Save**: Saves both the Markdown file and image to the appropriate category folder
 
-## Output Structure
+## Output structure
 
 For a recipe titled "Boeuf Bourguignon", the script creates:
 
