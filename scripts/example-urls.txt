@@ -1,0 +1,13 @@
+# Example URLs for Recipe Importer
+#
+# Add your recipe URLs here, one per line.
+# Lines starting with # are comments and will be ignored.
+#
+# Supported websites include: AllRecipes, BBC Food, ICA.se, and 100+ more
+# See: https://github.com/hhursev/recipe-scrapers#scrapers-available-for
+#
+# Usage: python import_recipes.py --file example-urls.txt
+
+# Add your URLs below:
+# https://www.allrecipes.com/recipe/12345/some-recipe/
+# https://www.ica.se/recept/some-swedish-recipe/

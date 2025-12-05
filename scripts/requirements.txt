@@ -1,0 +1,4 @@
+# Recipe Importer Dependencies
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+recipe-scrapers>=14.50.0
