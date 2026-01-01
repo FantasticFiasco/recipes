@@ -10,9 +10,9 @@ tags:
 
 ## Ingredienser
 
-- 1,5 kg 5 kg
+- 1,5 kg fläskstek på ben med svål
 - 2-3 msk salt
-- 3-4 dl atten
+- 3-4 dl vatten
 - 2 skalade morötter i grova bitar
 - 2 äpplen i grova bitar
 - 1 gul lök i grova bitar

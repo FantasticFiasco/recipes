@@ -56,6 +56,7 @@ Till servering
 7. Lägg auberginerna i en ugnsform och rosta i 40 minuter.
 
 Fyllningen
+
 8. Sätt en panna på hög värme. Skiva löken tunt.
 9. När pannan är riktigt het, tillsätt 2 msk olivolja och löken.
 10. Hacka vitlöken fint och tillsätt i pannan.
@@ -63,6 +64,7 @@ Fyllningen
 12. Tillsätt tomatpuré, krossade tomater och timjan. Rör om och låt sjuda i 5 minuter. Ta från värmen.
 
 Sammansättning
+
 13. Ta ut auberginerna från ugnen och använd en sked för att trycka ner snitten du gjorde tidigare så att du får plats för fyllningen.
 14. Fördela fyllningen mellan auberginerna och strö över fetaost och peppar. Ringla över olivolja och baka i 15-20 minuter till.
 15. För servering, lägg ut rucola på ett serveringsfat, lägg på auberginerna med lite finhackad persilja, peppar och extra virgin olivolja.
