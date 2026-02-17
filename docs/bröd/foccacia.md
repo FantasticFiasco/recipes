@@ -12,11 +12,11 @@ tags:
 ## Ingredienser
 
 - 400 ml vatten, fingervarmt
-- 2 tsk salt
 - 1 tsk socker
-- 2 msk olivolja, plus mer för pensling
-- 12 g färsk jäst eller 6 g torrjäst
+- 25 g färsk jäst
 - 500 g vetemjöl
+- 2 tsk salt
+- 2 msk olivolja, plus mer för pensling
 
 ## Gör så här
 
