@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkrecept=globalThis.webpackChunkrecept||[]).push([[8602],{9473(e){e.exports=JSON.parse('{"tag":{"label":"uruguay","permalink":"/recipes/tags/uruguay","allTagsPath":"/recipes/tags","count":1,"items":[{"id":"s\xe5s/chimichurri","title":"Chimichurri","description":"image","permalink":"/recipes/s\xe5s/chimichurri"}],"unlisted":false}}')}}]);

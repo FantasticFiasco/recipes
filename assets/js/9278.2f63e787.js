@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkrecept=globalThis.webpackChunkrecept||[]).push([[9278],{9278(e,c,h){h.r(c)}}]);
