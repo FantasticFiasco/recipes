@@ -5,7 +5,7 @@ tags:
     - lunch
     - middag
 ---
-# Baguette
+# Baguette på en dag
 
 ![image](./baguette.jpg)
 
