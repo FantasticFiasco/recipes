@@ -15,14 +15,14 @@ tags:
 
 - 450 g starkt vetemjöl
 - 7 g salt
-- 290 ml fingervarmt vatten
+- 290 ml kallt vatten
 - 5 g färsk jäst (eller 2,5 g torr jäst)
 
 ### Deg (dag 2)
 
 - 500 g starkt vetemjöl
 - 10 g salt
-- 300 ml fingervarmt vatten
+- 300 ml kallt vatten
 - 10 g färsk jäst (eller 5 g torr jäst)
 - Fördeg
 
@@ -30,9 +30,9 @@ tags:
 
 ### Dag 1 – fördegen
 
-1. Blanda mjöl och salt i en bunke.
-2. Smula ner jästen i vattnet och rör om tills den löst sig.
-3. Häll jästvattnet i mjölet och blanda ihop till en grov deg.
+1. Smula ner jästen i vattnet och rör om tills den löst sig.
+2. Blanda mjöl och salt i en bunke.
+3. Häll i mjöl och salt i jästvattnet och blanda ihop till en grov deg.
 4. Vänd ut degen på ett rent underlag och knåda i 3–4 minuter. Degen behöver bara gå ihop – motstå frestelsen att tillsätta mer mjöl om den är lite kladdig.
 5. Lägg degen i en oljad bunke, täck med plastfolie och ställ in i kylen i 12–24 timmar.
 
