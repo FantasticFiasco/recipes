@@ -10,11 +10,11 @@ tags:
 
 ## Ingredienser
 
-- 4 dl kallt vatten
+- 400 g kallt vatten
 - 12 g färsk jäst
 - 1 tsk socker (kan uteslutas)
 - 2 msk olja
-- 10 dl vetemjöl
+- 700 g vetemjöl
 - 1 tsk salt
 
 ## Gör så här

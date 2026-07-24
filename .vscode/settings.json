@@ -3,5 +3,10 @@
   "yaml.validate": true,
   "yaml.schemas": {
     "https://json.schemastore.org/github-workflow": ["/.github/workflows/*"]
-  }
+  },
+  "cSpell.words": [
+    "Amatriciana",
+    "Bucatini",
+    "peperoncini"
+  ]
 }
