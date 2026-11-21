@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkrecept=globalThis.webpackChunkrecept||[]).push([[6203],{6725(e){e.exports=JSON.parse('{"tag":{"label":"japan","permalink":"/recipes/tags/japan","allTagsPath":"/recipes/tags","count":1,"items":[{"id":"fl\xe4sk/ramen","title":"Ramen","description":"image","permalink":"/recipes/fl\xe4sk/ramen"}],"unlisted":false}}')}}]);
