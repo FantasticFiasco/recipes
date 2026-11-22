@@ -43,6 +43,8 @@ tags:
 - 6 salladslökar
 - 2 pak choi
 - 6 ägg
+- Sockerärtor
+- Edamerbönor
 - Sesamfrön
 
 ## Gör så här
